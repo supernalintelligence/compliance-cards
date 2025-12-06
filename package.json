@@ -1,0 +1,59 @@
+{
+  "name": "@supernal/compliance-cards",
+  "version": "0.1.0",
+  "description": "Open-source compliance requirement cards for HIPAA, ISO 27001, SOC 2, GDPR, and more",
+  "license": "MIT",
+  "author": "Supernal AI <hello@supernal.ai>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianderrington/compliance-cards.git"
+  },
+  "homepage": "https://github.com/ianderrington/compliance-cards#readme",
+  "bugs": {
+    "url": "https://github.com/ianderrington/compliance-cards/issues"
+  },
+  "keywords": [
+    "compliance",
+    "hipaa",
+    "iso27001",
+    "soc2",
+    "gdpr",
+    "regulatory",
+    "security",
+    "audit",
+    "gherkin",
+    "requirements"
+  ],
+  "main": "src/index.js",
+  "bin": {
+    "compliance-cards": "./bin/cli.js"
+  },
+  "files": [
+    "src/",
+    "bin/",
+    "frameworks/",
+    "schema/",
+    "mapping/"
+  ],
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/",
+    "validate": "node bin/cli.js validate",
+    "prepublishOnly": "npm test"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "gray-matter": "^4.0.3",
+    "glob": "^10.3.0",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.3"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
+
