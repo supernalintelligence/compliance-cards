@@ -3,6 +3,8 @@ id: comp-en18031-031-output-validation
 title: COMP-EN18031-031 - Output Validation
 sidebar_label: COMP-EN18031-031
 sidebar_position: 31
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-031: Output Validation

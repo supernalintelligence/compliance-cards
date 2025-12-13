@@ -188,8 +188,8 @@ All GDPR template requirements follow the standard See requirement template in s
 ## Related Documentation
 
 - [GDPR Template Requirements](../templates/index.md) - Complete list of template requirements
-- [Privacy by Design Implementation](../../../../requirements/compliance/processes/implementation/privacy-by-design.md) - Technical implementation guide
-- [Data Subject Rights Management](../../../../requirements/compliance/processes/implementation/data-subject-rights.md) - Rights implementation guide
+- [Privacy by Design Implementation](../../../../../docs/requirements/compliance/processes/implementation/privacy-by-design.md) - Technical implementation guide
+- [Data Subject Rights Management](../../../../../docs/requirements/compliance/processes/implementation/data-subject-rights.md) - Rights implementation guide
 
 ## Compliance Benefits
 

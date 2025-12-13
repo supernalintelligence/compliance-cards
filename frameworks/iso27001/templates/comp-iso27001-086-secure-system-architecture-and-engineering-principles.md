@@ -3,6 +3,8 @@ id: comp-iso27001-086-secure-system-architecture-and-engineering-principles
 title: COMP-ISO27001-086 - Secure System Architecture and Engineering Principles
 sidebar_label: COMP-ISO27001-086
 sidebar_position: 86
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-086: Secure System Architecture and Engineering Principles

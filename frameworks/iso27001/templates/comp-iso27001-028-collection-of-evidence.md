@@ -3,6 +3,8 @@ id: comp-iso27001-028-collection-of-evidence
 title: COMP-ISO27001-028 - Collection of Evidence
 sidebar_label: COMP-ISO27001-028
 sidebar_position: 28
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-028: Collection of Evidence

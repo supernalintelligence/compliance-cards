@@ -3,6 +3,8 @@ id: comp-iso27701-036-processing-pii-of-children
 title: COMP-ISO27701-036 - Processing PII of Children
 sidebar_label: COMP-ISO27701-036
 sidebar_position: 36
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-036: Processing PII of Children

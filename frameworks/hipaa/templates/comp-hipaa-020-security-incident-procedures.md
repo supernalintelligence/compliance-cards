@@ -3,6 +3,8 @@ id: comp-hipaa-020-security-incident-procedures
 title: COMP-HIPAA-020 - Security Incident Procedures
 sidebar_label: COMP-HIPAA-020
 sidebar_position: 20
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-020: Security Incident Procedures

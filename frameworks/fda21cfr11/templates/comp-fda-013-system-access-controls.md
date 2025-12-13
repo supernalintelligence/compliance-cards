@@ -3,6 +3,8 @@ id: comp-fda-013-system-access-controls
 title: COMP-FDA-013 - System Access Controls
 sidebar_label: COMP-FDA-013 Access Controls
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-013: System Access Controls

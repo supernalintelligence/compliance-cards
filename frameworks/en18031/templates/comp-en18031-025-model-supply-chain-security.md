@@ -3,6 +3,8 @@ id: comp-en18031-025-model-supply-chain-security
 title: COMP-EN18031-025 - Model Supply Chain Security
 sidebar_label: COMP-EN18031-025
 sidebar_position: 25
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-025: Model Supply Chain Security

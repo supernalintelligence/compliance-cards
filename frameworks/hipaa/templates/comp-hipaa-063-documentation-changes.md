@@ -3,6 +3,8 @@ id: comp-hipaa-063-documentation-changes
 title: COMP-HIPAA-063 - Documentation - Changes
 sidebar_label: COMP-HIPAA-063
 sidebar_position: 63
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-063: Documentation - Changes

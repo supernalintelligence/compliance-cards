@@ -3,6 +3,8 @@ id: comp-hipaa-046-automatic-logoff
 title: COMP-HIPAA-046 - Automatic Logoff
 sidebar_label: COMP-HIPAA-046
 sidebar_position: 46
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-046: Automatic Logoff

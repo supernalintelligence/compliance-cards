@@ -3,6 +3,8 @@ id: comp-iso27701-052-encryption-of-pii
 title: COMP-ISO27701-052 - Encryption of PII
 sidebar_label: COMP-ISO27701-052
 sidebar_position: 52
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-052: Encryption of PII

@@ -3,6 +3,8 @@ id: comp-gdpr-010-right-to-object
 title: COMP-GDPR-010 - Right to Object
 sidebar_label: COMP-GDPR-010 Object
 sidebar_position: 10
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-010: Right to Object

@@ -3,6 +3,8 @@ id: comp-hipaa-003-risk-management
 title: COMP-HIPAA-003 - Risk Management
 sidebar_label: COMP-HIPAA-003
 sidebar_position: 3
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-003: Risk Management

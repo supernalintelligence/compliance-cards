@@ -3,6 +3,8 @@ id: comp-iso27001-083-use-of-cryptography
 title: COMP-ISO27001-083 - Use of Cryptography
 sidebar_label: COMP-ISO27001-083
 sidebar_position: 83
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-083: Use of Cryptography

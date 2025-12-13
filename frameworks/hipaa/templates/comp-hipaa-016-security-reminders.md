@@ -3,6 +3,8 @@ id: comp-hipaa-016-security-reminders
 title: COMP-HIPAA-016 - Security Reminders
 sidebar_label: COMP-HIPAA-016
 sidebar_position: 16
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-016: Security Reminders

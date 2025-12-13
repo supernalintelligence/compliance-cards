@@ -3,6 +3,8 @@ id: comp-iso27001-017-authentication-information
 title: COMP-ISO27001-017 - Authentication Information
 sidebar_label: COMP-ISO27001-017
 sidebar_position: 17
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-017: Authentication Information

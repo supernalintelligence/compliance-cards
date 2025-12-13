@@ -3,6 +3,8 @@ id: comp-iso27701-012-obligations-to-data-subjects-erasure
 title: COMP-ISO27701-012 - Obligations to Data Subjects - Erasure
 sidebar_label: COMP-ISO27701-012
 sidebar_position: 12
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-012: Obligations to Data Subjects - Erasure

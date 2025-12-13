@@ -3,6 +3,8 @@ id: comp-gdpr-011-privacy-by-design
 title: COMP-GDPR-011 - Privacy by Design
 sidebar_label: COMP-GDPR-011 Privacy by Design
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-011: Privacy by Design

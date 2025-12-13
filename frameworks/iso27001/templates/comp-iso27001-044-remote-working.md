@@ -3,6 +3,8 @@ id: comp-iso27001-044-remote-working
 title: COMP-ISO27001-044 - Remote Working
 sidebar_label: COMP-ISO27001-044
 sidebar_position: 44
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-044: Remote Working

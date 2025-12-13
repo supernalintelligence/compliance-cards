@@ -3,6 +3,8 @@ id: comp-iso27001-061-privileged-access-rights
 title: COMP-ISO27001-061 - Privileged Access Rights
 sidebar_label: COMP-ISO27001-061
 sidebar_position: 61
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-061: Privileged Access Rights

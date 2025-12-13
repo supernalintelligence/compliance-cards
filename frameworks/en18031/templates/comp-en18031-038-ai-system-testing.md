@@ -3,6 +3,8 @@ id: comp-en18031-038-ai-system-testing
 title: COMP-EN18031-038 - AI System Testing
 sidebar_label: COMP-EN18031-038
 sidebar_position: 38
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-038: AI System Testing

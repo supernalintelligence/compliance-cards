@@ -3,6 +3,8 @@ id: comp-hipaa-021-response-and-reporting
 title: COMP-HIPAA-021 - Response and Reporting
 sidebar_label: COMP-HIPAA-021
 sidebar_position: 21
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-021: Response and Reporting

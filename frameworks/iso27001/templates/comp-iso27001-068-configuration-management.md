@@ -3,6 +3,8 @@ id: comp-iso27001-068-configuration-management
 title: COMP-ISO27001-068 - Configuration Management
 sidebar_label: COMP-ISO27001-068
 sidebar_position: 68
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-068: Configuration Management

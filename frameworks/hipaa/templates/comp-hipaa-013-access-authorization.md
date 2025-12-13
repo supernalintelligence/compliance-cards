@@ -3,6 +3,8 @@ id: comp-hipaa-013-access-authorization
 title: COMP-HIPAA-013 - Access Authorization
 sidebar_label: COMP-HIPAA-013
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-013: Access Authorization

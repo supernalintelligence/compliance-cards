@@ -3,6 +3,8 @@ id: comp-iso27701-014-obligations-to-data-subjects-object
 title: COMP-ISO27701-014 - Obligations to Data Subjects - Object
 sidebar_label: COMP-ISO27701-014
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-014: Obligations to Data Subjects - Object

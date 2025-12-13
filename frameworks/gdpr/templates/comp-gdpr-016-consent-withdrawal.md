@@ -3,6 +3,8 @@ id: comp-gdpr-016-consent-withdrawal
 title: COMP-GDPR-016 - Consent Withdrawal
 sidebar_label: COMP-GDPR-016 Withdrawal
 sidebar_position: 16
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-016: Consent Withdrawal

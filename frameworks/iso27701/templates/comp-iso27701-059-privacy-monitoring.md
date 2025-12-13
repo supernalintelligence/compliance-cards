@@ -3,6 +3,8 @@ id: comp-iso27701-059-privacy-monitoring
 title: COMP-ISO27701-059 - Privacy Monitoring
 sidebar_label: COMP-ISO27701-059
 sidebar_position: 59
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-059: Privacy Monitoring

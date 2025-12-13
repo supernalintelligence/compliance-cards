@@ -1,0 +1,405 @@
+{
+  "date": "2025-12-13T08:18:14.896Z",
+  "frameworks": {
+    "en18031": {
+      "boilerplateCount": 39,
+      "files": [
+        {
+          "file": "comp-en18031-002-ai-risk-management.md",
+          "id": "comp-en18031-002-ai-risk-management",
+          "title": "COMP-EN18031-002 - AI Risk Management",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-003-ai-ethics-board.md",
+          "id": "comp-en18031-003-ai-ethics-board",
+          "title": "COMP-EN18031-003 - AI Ethics Board",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-004-ai-incident-response.md",
+          "id": "comp-en18031-004-ai-incident-response",
+          "title": "COMP-EN18031-004 - AI Incident Response",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-005-ai-documentation-standards.md",
+          "id": "comp-en18031-005-ai-documentation-standards",
+          "title": "COMP-EN18031-005 - AI Documentation Standards",
+          "boilerplateScore": 5,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-006-ai-transparency-requirements.md",
+          "id": "comp-en18031-006-ai-transparency-requirements",
+          "title": "COMP-EN18031-006 - AI Transparency Requirements",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-007-ai-audit-trail.md",
+          "id": "comp-en18031-007-ai-audit-trail",
+          "title": "COMP-EN18031-007 - AI Audit Trail",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-008-ai-stakeholder-engagement.md",
+          "id": "comp-en18031-008-ai-stakeholder-engagement",
+          "title": "COMP-EN18031-008 - AI Stakeholder Engagement",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-009-training-data-quality.md",
+          "id": "comp-en18031-009-training-data-quality",
+          "title": "COMP-EN18031-009 - Training Data Quality",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-010-data-bias-detection.md",
+          "id": "comp-en18031-010-data-bias-detection",
+          "title": "COMP-EN18031-010 - Data Bias Detection",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-011-data-provenance.md",
+          "id": "comp-en18031-011-data-provenance",
+          "title": "COMP-EN18031-011 - Data Provenance",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-012-data-privacy-for-ai.md",
+          "id": "comp-en18031-012-data-privacy-for-ai",
+          "title": "COMP-EN18031-012 - Data Privacy for AI",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-013-synthetic-data-generation.md",
+          "id": "comp-en18031-013-synthetic-data-generation",
+          "title": "COMP-EN18031-013 - Synthetic Data Generation",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-014-data-versioning.md",
+          "id": "comp-en18031-014-data-versioning",
+          "title": "COMP-EN18031-014 - Data Versioning",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-015-data-poisoning-prevention.md",
+          "id": "comp-en18031-015-data-poisoning-prevention",
+          "title": "COMP-EN18031-015 - Data Poisoning Prevention",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-016-model-development-lifecycle.md",
+          "id": "comp-en18031-016-model-development-lifecycle",
+          "title": "COMP-EN18031-016 - Model Development Lifecycle",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-017-model-validation.md",
+          "id": "comp-en18031-017-model-validation",
+          "title": "COMP-EN18031-017 - Model Validation",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-018-model-versioning.md",
+          "id": "comp-en18031-018-model-versioning",
+          "title": "COMP-EN18031-018 - Model Versioning",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-019-model-adversarial-testing.md",
+          "id": "comp-en18031-019-model-adversarial-testing",
+          "title": "COMP-EN18031-019 - Model Adversarial Testing",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-020-model-explainability.md",
+          "id": "comp-en18031-020-model-explainability",
+          "title": "COMP-EN18031-020 - Model Explainability",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-021-model-fairness-testing.md",
+          "id": "comp-en18031-021-model-fairness-testing",
+          "title": "COMP-EN18031-021 - Model Fairness Testing",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-022-model-security-scanning.md",
+          "id": "comp-en18031-022-model-security-scanning",
+          "title": "COMP-EN18031-022 - Model Security Scanning",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-023-model-drift-detection.md",
+          "id": "comp-en18031-023-model-drift-detection",
+          "title": "COMP-EN18031-023 - Model Drift Detection",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-024-model-backdoor-prevention.md",
+          "id": "comp-en18031-024-model-backdoor-prevention",
+          "title": "COMP-EN18031-024 - Model Backdoor Prevention",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-025-model-supply-chain-security.md",
+          "id": "comp-en18031-025-model-supply-chain-security",
+          "title": "COMP-EN18031-025 - Model Supply Chain Security",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-026-ai-system-monitoring.md",
+          "id": "comp-en18031-026-ai-system-monitoring",
+          "title": "COMP-EN18031-026 - AI System Monitoring",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-027-inference-security.md",
+          "id": "comp-en18031-027-inference-security",
+          "title": "COMP-EN18031-027 - Inference Security",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-028-model-serving-infrastructure.md",
+          "id": "comp-en18031-028-model-serving-infrastructure",
+          "title": "COMP-EN18031-028 - Model Serving Infrastructure",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-029-ai-system-performance-monitoring.md",
+          "id": "comp-en18031-029-ai-system-performance-monitoring",
+          "title": "COMP-EN18031-029 - AI System Performance Monitoring",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-030-prompt-injection-prevention.md",
+          "id": "comp-en18031-030-prompt-injection-prevention",
+          "title": "COMP-EN18031-030 - Prompt Injection Prevention",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-031-output-validation.md",
+          "id": "comp-en18031-031-output-validation",
+          "title": "COMP-EN18031-031 - Output Validation",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-032-rate-limiting-abuse-prevention.md",
+          "id": "comp-en18031-032-rate-limiting-abuse-prevention",
+          "title": "COMP-EN18031-032 - Rate Limiting & Abuse Prevention",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-033-ai-system-rollback.md",
+          "id": "comp-en18031-033-ai-system-rollback",
+          "title": "COMP-EN18031-033 - AI System Rollback",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-034-safety-requirements.md",
+          "id": "comp-en18031-034-safety-requirements",
+          "title": "COMP-EN18031-034 - Safety Requirements",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-035-fail-safe-mechanisms.md",
+          "id": "comp-en18031-035-fail-safe-mechanisms",
+          "title": "COMP-EN18031-035 - Fail-Safe Mechanisms",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-036-human-oversight.md",
+          "id": "comp-en18031-036-human-oversight",
+          "title": "COMP-EN18031-036 - Human Oversight",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-037-continuous-learning-safety.md",
+          "id": "comp-en18031-037-continuous-learning-safety",
+          "title": "COMP-EN18031-037 - Continuous Learning Safety",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-038-ai-system-testing.md",
+          "id": "comp-en18031-038-ai-system-testing",
+          "title": "COMP-EN18031-038 - AI System Testing",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-039-robustness-testing.md",
+          "id": "comp-en18031-039-robustness-testing",
+          "title": "COMP-EN18031-039 - Robustness Testing",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        },
+        {
+          "file": "comp-en18031-040-emergency-stop-procedures.md",
+          "id": "comp-en18031-040-emergency-stop-procedures",
+          "title": "COMP-EN18031-040 - Emergency Stop Procedures",
+          "boilerplateScore": 4,
+          "hasGenericScenarios": true,
+          "uniqueLines": 42,
+          "lineCount": 130,
+          "purpose": "N/A"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "totalFrameworks": 8,
+    "frameworksWithBoilerplate": 1,
+    "totalBoilerplateFiles": 39
+  }
+}

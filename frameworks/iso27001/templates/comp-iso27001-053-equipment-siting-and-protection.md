@@ -3,6 +3,8 @@ id: comp-iso27001-053-equipment-siting-and-protection
 title: COMP-ISO27001-053 - Equipment Siting and Protection
 sidebar_label: COMP-ISO27001-053
 sidebar_position: 53
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-053: Equipment Siting and Protection

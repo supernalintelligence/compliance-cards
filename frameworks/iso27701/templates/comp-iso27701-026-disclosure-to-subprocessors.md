@@ -3,6 +3,8 @@ id: comp-iso27701-026-disclosure-to-subprocessors
 title: COMP-ISO27701-026 - Disclosure to Subprocessors
 sidebar_label: COMP-ISO27701-026
 sidebar_position: 26
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-026: Disclosure to Subprocessors

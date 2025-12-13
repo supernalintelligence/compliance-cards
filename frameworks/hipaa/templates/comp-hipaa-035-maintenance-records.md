@@ -3,6 +3,8 @@ id: comp-hipaa-035-maintenance-records
 title: COMP-HIPAA-035 - Maintenance Records
 sidebar_label: COMP-HIPAA-035
 sidebar_position: 35
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-035: Maintenance Records

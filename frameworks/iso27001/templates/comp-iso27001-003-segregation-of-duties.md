@@ -3,6 +3,8 @@ id: comp-iso27001-003-segregation-of-duties
 title: COMP-ISO27001-003 - Segregation of Duties
 sidebar_label: COMP-ISO27001-003
 sidebar_position: 3
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-003: Segregation of Duties

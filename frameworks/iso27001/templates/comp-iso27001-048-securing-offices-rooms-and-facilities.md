@@ -3,6 +3,8 @@ id: comp-iso27001-048-securing-offices-rooms-and-facilities
 title: COMP-ISO27001-048 - Securing Offices, Rooms and Facilities
 sidebar_label: COMP-ISO27001-048
 sidebar_position: 48
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-048: Securing Offices, Rooms and Facilities

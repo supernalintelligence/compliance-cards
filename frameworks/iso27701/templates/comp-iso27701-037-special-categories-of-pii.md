@@ -3,6 +3,8 @@ id: comp-iso27701-037-special-categories-of-pii
 title: COMP-ISO27701-037 - Special Categories of PII
 sidebar_label: COMP-ISO27701-037
 sidebar_position: 37
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-037: Special Categories of PII

@@ -3,6 +3,8 @@ id: comp-iso27001-059-secure-disposal-or-re-use-of-equipment
 title: COMP-ISO27001-059 - Secure Disposal or Re-use of Equipment
 sidebar_label: COMP-ISO27001-059
 sidebar_position: 59
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-059: Secure Disposal or Re-use of Equipment

@@ -3,6 +3,8 @@ id: comp-hipaa-044-unique-user-identification
 title: COMP-HIPAA-044 - Unique User Identification
 sidebar_label: COMP-HIPAA-044
 sidebar_position: 44
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-044: Unique User Identification

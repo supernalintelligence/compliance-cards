@@ -182,4 +182,4 @@ Each ISO 13485 template includes:
 
 - [ISO 13485 Overview](../overview/index.md) - Framework introduction and benefits
 - See requirement template in supernal-code-package - Standard template structure
-- [Compliance Validation](../../../../requirements/compliance/processes/validation/index.md) - Validation processes and tools
+- [Compliance Validation](../../../../../docs/requirements/compliance/processes/validation/index.md) - Validation processes and tools

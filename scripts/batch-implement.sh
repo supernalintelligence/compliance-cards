@@ -1,0 +1,25 @@
+#!/bin/bash
+# Batch implementation of EN18031 critical cards
+# This script helps track implementation of cards 002, 009, 010, 017
+
+echo "EN18031 Critical Cards - Batch Implementation"
+echo "=============================================="
+echo ""
+echo "Status:"
+echo "  ✅ 001: AI Governance Framework (613 lines)"
+echo "  🔄 002: AI Risk Management - Ready for implementation"
+echo "  🔄 009: Training Data Quality - Ready for implementation"
+echo "  🔄 010: Data Bias Detection - Ready for implementation"
+echo "  🔄 017: Model Validation - Ready for implementation"
+echo ""
+echo "Each card needs ~600 lines following the pattern from 001."
+echo ""
+echo "To implement a card:"
+echo "1. Use 001 as template"
+echo "2. Replace with specific content from docs/improvement/EN18031-CRITICAL-CARDS-SPECS.json"
+echo "3. Add 6+ specific Gherkin scenarios"
+echo "4. Include cross-framework mappings"
+echo "5. Add testing strategies and tools"
+echo "6. Run: node scripts/audit-templates.js to verify"
+echo ""
+echo "Pattern established. Ready for AI-assisted batch generation."

@@ -3,6 +3,8 @@ id: comp-hipaa-045-emergency-access-procedure
 title: COMP-HIPAA-045 - Emergency Access Procedure
 sidebar_label: COMP-HIPAA-045
 sidebar_position: 45
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-045: Emergency Access Procedure

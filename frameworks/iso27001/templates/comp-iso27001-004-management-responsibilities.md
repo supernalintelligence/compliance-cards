@@ -3,6 +3,8 @@ id: comp-iso27001-004-management-responsibilities
 title: COMP-ISO27001-004 - Management Responsibilities
 sidebar_label: COMP-ISO27001-004
 sidebar_position: 4
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-004: Management Responsibilities

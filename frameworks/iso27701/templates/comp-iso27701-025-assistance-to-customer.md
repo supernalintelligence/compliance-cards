@@ -3,6 +3,8 @@ id: comp-iso27701-025-assistance-to-customer
 title: COMP-ISO27701-025 - Assistance to Customer
 sidebar_label: COMP-ISO27701-025
 sidebar_position: 25
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-025: Assistance to Customer

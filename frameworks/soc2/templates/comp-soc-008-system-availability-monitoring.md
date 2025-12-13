@@ -3,6 +3,8 @@ id: comp-soc-008-system-availability-monitoring
 title: COMP-SOC-008 - System Availability Monitoring
 sidebar_label: COMP-SOC-008 Availability
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-008: System Availability Monitoring

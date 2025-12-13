@@ -3,6 +3,8 @@ id: comp-iso27001-033-protection-of-records
 title: COMP-ISO27001-033 - Protection of Records
 sidebar_label: COMP-ISO27001-033
 sidebar_position: 33
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-033: Protection of Records

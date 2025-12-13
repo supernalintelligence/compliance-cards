@@ -3,6 +3,8 @@ id: comp-iso27001-007-threat-intelligence
 title: COMP-ISO27001-007 - Threat Intelligence
 sidebar_label: COMP-ISO27001-007
 sidebar_position: 7
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-007: Threat Intelligence

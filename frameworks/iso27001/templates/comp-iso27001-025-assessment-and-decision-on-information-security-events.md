@@ -3,6 +3,8 @@ id: comp-iso27001-025-assessment-and-decision-on-information-security-events
 title: COMP-ISO27001-025 - Assessment and Decision on Information Security Events
 sidebar_label: COMP-ISO27001-025
 sidebar_position: 25
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-025: Assessment and Decision on Information Security Events

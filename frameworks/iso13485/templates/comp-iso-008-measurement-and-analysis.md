@@ -3,6 +3,8 @@ id: comp-iso-008-measurement-and-analysis
 title: COMP-ISO-008 - Measurement and Analysis
 sidebar_label: COMP-ISO-008 Measurement
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-008: Measurement and Analysis

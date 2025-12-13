@@ -3,6 +3,8 @@ id: comp-en18031-028-model-serving-infrastructure
 title: COMP-EN18031-028 - Model Serving Infrastructure
 sidebar_label: COMP-EN18031-028
 sidebar_position: 28
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-028: Model Serving Infrastructure

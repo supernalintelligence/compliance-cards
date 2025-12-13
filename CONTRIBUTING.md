@@ -143,7 +143,7 @@ Use these equivalence levels:
 
 - Open an issue for questions
 - Join discussions in existing issues
-- Check the [documentation](./docs/)
+- Check the [documentation](../../apps/docs-next/docs/cli/commands/docs.md)
 
 ## Code of Conduct
 

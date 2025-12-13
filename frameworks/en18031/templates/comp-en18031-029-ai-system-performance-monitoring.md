@@ -3,6 +3,8 @@ id: comp-en18031-029-ai-system-performance-monitoring
 title: COMP-EN18031-029 - AI System Performance Monitoring
 sidebar_label: COMP-EN18031-029
 sidebar_position: 29
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-029: AI System Performance Monitoring

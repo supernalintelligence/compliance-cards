@@ -3,6 +3,8 @@ id: comp-hipaa-057-requirements-for-group-health-plans
 title: COMP-HIPAA-057 - Requirements for Group Health Plans
 sidebar_label: COMP-HIPAA-057
 sidebar_position: 57
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-057: Requirements for Group Health Plans

@@ -3,6 +3,8 @@ id: comp-fda-010-automatic-audit-trails
 title: COMP-FDA-010 - Automatic Audit Trails
 sidebar_label: COMP-FDA-010 Audit Trails
 sidebar_position: 10
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-010: Automatic Audit Trails

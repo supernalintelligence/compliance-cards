@@ -3,6 +3,8 @@ id: comp-iso27001-012-classification-of-information
 title: COMP-ISO27001-012 - Classification of Information
 sidebar_label: COMP-ISO27001-012
 sidebar_position: 12
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-012: Classification of Information

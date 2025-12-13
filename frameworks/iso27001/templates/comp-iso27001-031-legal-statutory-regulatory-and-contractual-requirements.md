@@ -3,6 +3,8 @@ id: comp-iso27001-031-legal-statutory-regulatory-and-contractual-requirements
 title: COMP-ISO27001-031 - Legal, Statutory, Regulatory and Contractual Requirements
 sidebar_label: COMP-ISO27001-031
 sidebar_position: 31
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-031: Legal, Statutory, Regulatory and Contractual Requirements

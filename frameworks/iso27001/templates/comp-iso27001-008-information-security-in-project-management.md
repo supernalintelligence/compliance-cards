@@ -3,6 +3,8 @@ id: comp-iso27001-008-information-security-in-project-management
 title: COMP-ISO27001-008 - Information Security in Project Management
 sidebar_label: COMP-ISO27001-008
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-008: Information Security in Project Management

@@ -3,6 +3,8 @@ id: comp-iso-006-resource-management
 title: COMP-ISO-006 - Resource Management
 sidebar_label: COMP-ISO-006 Resource Management
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-006: Resource Management

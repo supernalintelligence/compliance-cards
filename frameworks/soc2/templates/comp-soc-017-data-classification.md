@@ -3,6 +3,8 @@ id: comp-soc-017-data-classification
 title: COMP-SOC-017 - Data Classification
 sidebar_label: COMP-SOC-017 Classification
 sidebar_position: 17
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-017: Data Classification

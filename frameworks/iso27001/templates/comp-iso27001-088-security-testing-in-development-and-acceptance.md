@@ -3,6 +3,8 @@ id: comp-iso27001-088-security-testing-in-development-and-acceptance
 title: COMP-ISO27001-088 - Security Testing in Development and Acceptance
 sidebar_label: COMP-ISO27001-088
 sidebar_position: 88
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-088: Security Testing in Development and Acceptance

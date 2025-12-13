@@ -3,6 +3,8 @@ id: comp-hipaa-055-business-associate-contracts-general
 title: COMP-HIPAA-055 - Business Associate Contracts - General
 sidebar_label: COMP-HIPAA-055
 sidebar_position: 55
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-055: Business Associate Contracts - General

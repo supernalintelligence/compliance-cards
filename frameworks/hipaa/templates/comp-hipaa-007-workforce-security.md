@@ -3,6 +3,8 @@ id: comp-hipaa-007-workforce-security
 title: COMP-HIPAA-007 - Workforce Security
 sidebar_label: COMP-HIPAA-007
 sidebar_position: 7
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-007: Workforce Security

@@ -3,6 +3,8 @@ id: comp-iso27001-082-web-filtering
 title: COMP-ISO27001-082 - Web Filtering
 sidebar_label: COMP-ISO27001-082
 sidebar_position: 82
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-082: Web Filtering

@@ -3,6 +3,8 @@ id: comp-en18031-024-model-backdoor-prevention
 title: COMP-EN18031-024 - Model Backdoor Prevention
 sidebar_label: COMP-EN18031-024
 sidebar_position: 24
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-024: Model Backdoor Prevention

@@ -3,6 +3,8 @@ id: comp-hipaa-054-encryption
 title: COMP-HIPAA-054 - Encryption
 sidebar_label: COMP-HIPAA-054
 sidebar_position: 54
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-054: Encryption

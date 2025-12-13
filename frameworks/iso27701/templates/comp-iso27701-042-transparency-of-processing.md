@@ -3,6 +3,8 @@ id: comp-iso27701-042-transparency-of-processing
 title: COMP-ISO27701-042 - Transparency of Processing
 sidebar_label: COMP-ISO27701-042
 sidebar_position: 42
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-042: Transparency of Processing

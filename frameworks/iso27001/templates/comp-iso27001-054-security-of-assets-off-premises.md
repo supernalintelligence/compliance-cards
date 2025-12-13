@@ -3,6 +3,8 @@ id: comp-iso27001-054-security-of-assets-off-premises
 title: COMP-ISO27001-054 - Security of Assets Off-Premises
 sidebar_label: COMP-ISO27001-054
 sidebar_position: 54
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-054: Security of Assets Off-Premises

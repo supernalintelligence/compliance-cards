@@ -3,6 +3,8 @@ id: comp-en18031-037-continuous-learning-safety
 title: COMP-EN18031-037 - Continuous Learning Safety
 sidebar_label: COMP-EN18031-037
 sidebar_position: 37
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-037: Continuous Learning Safety

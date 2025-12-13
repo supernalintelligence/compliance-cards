@@ -3,6 +3,8 @@ id: comp-iso27001-034-privacy-and-protection-of-pii
 title: COMP-ISO27001-034 - Privacy and Protection of PII
 sidebar_label: COMP-ISO27001-034
 sidebar_position: 34
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-034: Privacy and Protection of PII

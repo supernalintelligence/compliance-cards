@@ -3,6 +3,8 @@ id: comp-gdpr-012-privacy-by-default
 title: COMP-GDPR-012 - Privacy by Default
 sidebar_label: COMP-GDPR-012 Privacy by Default
 sidebar_position: 12
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-012: Privacy by Default

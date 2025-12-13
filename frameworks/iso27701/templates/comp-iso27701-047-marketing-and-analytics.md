@@ -3,6 +3,8 @@ id: comp-iso27701-047-marketing-and-analytics
 title: COMP-ISO27701-047 - Marketing and Analytics
 sidebar_label: COMP-ISO27701-047
 sidebar_position: 47
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-047: Marketing and Analytics

@@ -3,6 +3,8 @@ id: comp-iso27001-075-monitoring-activities
 title: COMP-ISO27001-075 - Monitoring Activities
 sidebar_label: COMP-ISO27001-075
 sidebar_position: 75
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-075: Monitoring Activities

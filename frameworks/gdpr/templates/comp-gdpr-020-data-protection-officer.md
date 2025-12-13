@@ -3,6 +3,8 @@ id: comp-gdpr-020-data-protection-officer
 title: COMP-GDPR-020 - Data Protection Officer
 sidebar_label: COMP-GDPR-020 DPO
 sidebar_position: 20
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-020: Data Protection Officer

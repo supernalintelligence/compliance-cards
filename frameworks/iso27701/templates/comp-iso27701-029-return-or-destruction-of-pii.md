@@ -3,6 +3,8 @@ id: comp-iso27701-029-return-or-destruction-of-pii
 title: COMP-ISO27701-029 - Return or Destruction of PII
 sidebar_label: COMP-ISO27701-029
 sidebar_position: 29
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-029: Return or Destruction of PII

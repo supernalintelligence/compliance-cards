@@ -3,6 +3,8 @@ id: comp-iso27001-037-documented-operating-procedures
 title: COMP-ISO27001-037 - Documented Operating Procedures
 sidebar_label: COMP-ISO27001-037
 sidebar_position: 37
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-037: Documented Operating Procedures

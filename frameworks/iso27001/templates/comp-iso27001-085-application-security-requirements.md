@@ -3,6 +3,8 @@ id: comp-iso27001-085-application-security-requirements
 title: COMP-ISO27001-085 - Application Security Requirements
 sidebar_label: COMP-ISO27001-085
 sidebar_position: 85
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-085: Application Security Requirements

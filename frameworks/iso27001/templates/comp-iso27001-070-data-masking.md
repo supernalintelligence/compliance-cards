@@ -3,6 +3,8 @@ id: comp-iso27001-070-data-masking
 title: COMP-ISO27001-070 - Data Masking
 sidebar_label: COMP-ISO27001-070
 sidebar_position: 70
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-070: Data Masking

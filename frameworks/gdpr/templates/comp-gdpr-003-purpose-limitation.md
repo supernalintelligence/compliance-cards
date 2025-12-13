@@ -3,6 +3,8 @@ id: comp-gdpr-003-purpose-limitation
 title: COMP-GDPR-003 - Purpose Limitation
 sidebar_label: COMP-GDPR-003 Purpose Limitation
 sidebar_position: 3
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-003: Purpose Limitation

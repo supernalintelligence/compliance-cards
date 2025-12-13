@@ -3,6 +3,8 @@ id: comp-iso27001-076-clock-synchronization
 title: COMP-ISO27001-076 - Clock Synchronization
 sidebar_label: COMP-ISO27001-076
 sidebar_position: 76
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-076: Clock Synchronization

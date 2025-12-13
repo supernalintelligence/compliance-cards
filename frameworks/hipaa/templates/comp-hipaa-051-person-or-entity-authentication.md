@@ -3,6 +3,8 @@ id: comp-hipaa-051-person-or-entity-authentication
 title: COMP-HIPAA-051 - Person or Entity Authentication
 sidebar_label: COMP-HIPAA-051
 sidebar_position: 51
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-051: Person or Entity Authentication

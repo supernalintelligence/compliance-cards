@@ -3,6 +3,8 @@ id: comp-fda-003-system-requirements-specification
 title: COMP-FDA-003 - System Requirements Specification
 sidebar_label: COMP-FDA-003 SRS
 sidebar_position: 3
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-003: System Requirements Specification

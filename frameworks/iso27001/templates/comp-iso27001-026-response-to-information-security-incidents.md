@@ -3,6 +3,8 @@ id: comp-iso27001-026-response-to-information-security-incidents
 title: COMP-ISO27001-026 - Response to Information Security Incidents
 sidebar_label: COMP-ISO27001-026
 sidebar_position: 26
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-026: Response to Information Security Incidents

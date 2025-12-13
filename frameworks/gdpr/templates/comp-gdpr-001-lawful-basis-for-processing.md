@@ -3,6 +3,8 @@ id: comp-gdpr-001-lawful-basis-for-processing
 title: COMP-GDPR-001 - Lawful Basis for Processing
 sidebar_label: COMP-GDPR-001 Lawful Basis
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-001: Lawful Basis for Processing

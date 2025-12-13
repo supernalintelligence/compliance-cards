@@ -3,6 +3,8 @@ id: comp-gdpr-017-international-data-transfers
 title: COMP-GDPR-017 - International Data Transfers
 sidebar_label: COMP-GDPR-017 Transfers
 sidebar_position: 17
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-017: International Data Transfers

@@ -3,6 +3,8 @@ id: comp-soc-005-encryption-key-management
 title: COMP-SOC-005 - Encryption Key Management
 sidebar_label: COMP-SOC-005 Encryption
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-005: Encryption Key Management

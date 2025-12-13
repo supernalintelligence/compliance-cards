@@ -3,6 +3,8 @@ id: comp-iso27001-092-test-information
 title: COMP-ISO27001-092 - Test Information
 sidebar_label: COMP-ISO27001-092
 sidebar_position: 92
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-092: Test Information

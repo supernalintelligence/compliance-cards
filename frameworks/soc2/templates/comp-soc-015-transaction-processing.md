@@ -3,6 +3,8 @@ id: comp-soc-015-transaction-processing
 title: COMP-SOC-015 - Transaction Processing
 sidebar_label: COMP-SOC-015 Transactions
 sidebar_position: 15
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-015: Transaction Processing

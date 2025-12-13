@@ -3,6 +3,8 @@ id: comp-en18031-014-data-versioning
 title: COMP-EN18031-014 - Data Versioning
 sidebar_label: COMP-EN18031-014
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-014: Data Versioning

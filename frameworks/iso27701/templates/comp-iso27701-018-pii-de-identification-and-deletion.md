@@ -3,6 +3,8 @@ id: comp-iso27701-018-pii-de-identification-and-deletion
 title: COMP-ISO27701-018 - PII De-identification and Deletion
 sidebar_label: COMP-ISO27701-018
 sidebar_position: 18
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-018: PII De-identification and Deletion

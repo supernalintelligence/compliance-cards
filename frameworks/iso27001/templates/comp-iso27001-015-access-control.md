@@ -3,6 +3,8 @@ id: comp-iso27001-015-access-control
 title: COMP-ISO27001-015 - Access Control
 sidebar_label: COMP-ISO27001-015
 sidebar_position: 15
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-015: Access Control

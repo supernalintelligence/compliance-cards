@@ -3,6 +3,8 @@ id: comp-iso27001-071-data-leakage-prevention
 title: COMP-ISO27001-071 - Data Leakage Prevention
 sidebar_label: COMP-ISO27001-071
 sidebar_position: 71
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-071: Data Leakage Prevention

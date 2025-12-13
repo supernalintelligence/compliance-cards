@@ -3,6 +3,8 @@ id: comp-iso27001-029-information-security-during-disruption
 title: COMP-ISO27001-029 - Information Security During Disruption
 sidebar_label: COMP-ISO27001-029
 sidebar_position: 29
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-029: Information Security During Disruption

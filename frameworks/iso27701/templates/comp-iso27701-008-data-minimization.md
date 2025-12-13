@@ -3,6 +3,8 @@ id: comp-iso27701-008-data-minimization
 title: COMP-ISO27701-008 - Data Minimization
 sidebar_label: COMP-ISO27701-008
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-008: Data Minimization

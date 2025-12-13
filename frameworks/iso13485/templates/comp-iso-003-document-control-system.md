@@ -3,6 +3,8 @@ id: comp-iso-003-document-control-system
 title: COMP-ISO-003 - Document Control System
 sidebar_label: COMP-ISO-003 Document Control
 sidebar_position: 3
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-003: Document Control System

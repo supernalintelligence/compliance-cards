@@ -145,6 +145,28 @@ npx compliance-cards sync
 npx compliance-cards sync --strategy=merge
 ```
 
+## Quality Status
+
+### Template Quality Audit (2025-12-13)
+
+We've audited all 328 compliance cards for quality:
+
+- ✅ **HIPAA, ISO 27001, SOC 2, GDPR, ISO 27701, ISO 13485, FDA 21 CFR 11**: High-quality templates with specific guidance
+- 🔧 **EN 18031 (AI Systems)**: 40 templates identified as boilerplate, improvement in progress
+
+See [AUDIT-SUMMARY.md](./AUDIT-SUMMARY.md) for full details and [IMPROVEMENT-GUIDE.md](./IMPROVEMENT-GUIDE.md) to contribute.
+
+### EN 18031 Improvement Campaign
+
+We're actively improving all 40 EN 18031 AI compliance cards. Track progress:
+
+- **[EN18031-IMPROVEMENT-PLAN.md](./EN18031-IMPROVEMENT-PLAN.md)** - Strategy and approach
+- **[EN18031-IMPROVEMENT-PROGRESS.md](./EN18031-IMPROVEMENT-PROGRESS.md)** - Live progress tracker
+- **[IMPROVEMENT-GUIDE.md](./IMPROVEMENT-GUIDE.md)** - How to contribute
+
+**Target**: Complete by Week 8 (5 cards/week)  
+**Status**: 📝 Planning Complete, Implementation Starting
+
 ## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
@@ -155,6 +177,7 @@ We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guideline
 - 🔗 Cross-framework mapping additions
 - 📚 New framework cards
 - 🧪 Gherkin scenario improvements
+- 🤖 **EN 18031 improvements** - Help us improve AI compliance cards ([Guide](./IMPROVEMENT-GUIDE.md))
 
 ## Automated Updates (Pro)
 
@@ -197,7 +220,7 @@ Validate a card against the schema.
 
 - [White Paper: Compliance Cards Architecture](https://supernal.ai/docs/compliance-cards-white-paper)
 - [Card Format Specification](./docs/card-format.md)
-- [Framework Guides](./docs/frameworks/)
+- [Framework Guides](../../docs/requirements/compliance/frameworks.md)
 - [Contributing Guide](./CONTRIBUTING.md)
 
 ## License

@@ -3,6 +3,8 @@ id: comp-iso27001-042-responsibilities-after-termination
 title: COMP-ISO27001-042 - Responsibilities After Termination
 sidebar_label: COMP-ISO27001-042
 sidebar_position: 42
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-042: Responsibilities After Termination

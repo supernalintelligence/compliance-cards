@@ -3,6 +3,8 @@ id: comp-iso27001-090-separation-of-development-test-and-production-environments
 title: COMP-ISO27001-090 - Separation of Development, Test and Production Environments
 sidebar_label: COMP-ISO27001-090
 sidebar_position: 90
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-090: Separation of Development, Test and Production Environments

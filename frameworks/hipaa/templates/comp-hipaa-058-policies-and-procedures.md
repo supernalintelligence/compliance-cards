@@ -3,6 +3,8 @@ id: comp-hipaa-058-policies-and-procedures
 title: COMP-HIPAA-058 - Policies and Procedures
 sidebar_label: COMP-HIPAA-058
 sidebar_position: 58
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-058: Policies and Procedures

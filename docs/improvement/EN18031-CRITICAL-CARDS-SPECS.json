@@ -1,0 +1,77 @@
+{
+  "002": {
+    "title": "AI Risk Management",
+    "section": "5.1.2",
+    "purpose": "Establish systematic AI risk identification, assessment, and mitigation processes",
+    "category": "ai-governance",
+    "crossFramework": {
+      "iso42001": "6.1 (Risk Assessment)",
+      "euAiAct": "Article 9 (Risk Management System)",
+      "iso24028": "Robustness",
+      "nistAiRmf": "MAP 1.1, MEASURE 2.1"
+    },
+    "relatedControls": [
+      "001",
+      "009",
+      "010",
+      "019"
+    ],
+    "description": "Implements EN 18031 Section 5.1.2 to establish comprehensive AI risk management processes covering the entire AI system lifecycle. This includes systematic identification of AI-specific risks (bias, drift, adversarial attacks, safety failures), quantitative and qualitative risk assessment methodologies, risk mitigation strategies, and continuous risk monitoring.\n\nThe risk management framework must address:\n1. **Risk Identification**: Systematic discovery of AI-specific risks throughout lifecycle\n2. **Risk Assessment**: Quantitative scoring using likelihood and impact matrices\n3. **Risk Mitigation**: Specific controls and safeguards for identified risks\n4. **Risk Monitoring**: Continuous tracking of risk indicators and emerging threats\n5. **Risk Communication**: Transparent reporting to stakeholders and governance\n6. **Risk Documentation**: Comprehensive audit trail of risk decisions"
+  },
+  "009": {
+    "title": "Training Data Quality",
+    "section": "5.3.1",
+    "purpose": "Ensure AI training data meets quality, completeness, and representativeness standards",
+    "category": "ai-data",
+    "crossFramework": {
+      "iso42001": "7.5 (Data Management)",
+      "euAiAct": "Article 10 (Data and Data Governance)",
+      "iso24028": "Robustness",
+      "nistAiRmf": "MAP 2.2, MEASURE 3.1"
+    },
+    "relatedControls": [
+      "010",
+      "011",
+      "012",
+      "015"
+    ],
+    "description": "Implements EN 18031 Section 5.3.1 to establish comprehensive training data quality management processes. Ensures AI training data is accurate, complete, representative, properly labeled, and free from systematic biases that could compromise model performance or fairness.\n\nTraining data quality requirements:\n1. **Accuracy**: Data correctly represents ground truth without systematic errors\n2. **Completeness**: Adequate coverage of problem space and edge cases\n3. **Representativeness**: Balanced representation across all relevant populations\n4. **Labeling Quality**: Consistent, accurate annotations with inter-annotator agreement\n5. **Freshness**: Data currency appropriate for use case and concept drift risks\n6. **Provenance**: Clear source tracking and lineage documentation"
+  },
+  "010": {
+    "title": "Data Bias Detection",
+    "section": "5.3.2",
+    "purpose": "Detect and mitigate biases in training data that could lead to discriminatory AI outcomes",
+    "category": "ai-data",
+    "crossFramework": {
+      "iso42001": "7.5 (Data Management)",
+      "euAiAct": "Article 10 (Data Governance - Bias)",
+      "iso24028": "Fairness",
+      "nistAiRmf": "MEASURE 2.3, MANAGE 1.2"
+    },
+    "relatedControls": [
+      "009",
+      "021",
+      "012"
+    ],
+    "description": "Implements EN 18031 Section 5.3.2 to systematically detect and address biases in training data that could result in discriminatory or unfair AI system outcomes. Establishes processes for bias auditing, quantitative bias measurement, and data rebalancing or augmentation strategies.\n\nBias detection must address:\n1. **Protected Attributes**: Systematic analysis of sensitive demographic variables\n2. **Representation Bias**: Underrepresentation or overrepresentation of groups\n3. **Label Bias**: Systematic labeling errors correlated with protected attributes\n4. **Measurement Bias**: Systematic data collection errors affecting specific groups\n5. **Sampling Bias**: Non-representative sampling that excludes or undersamples groups\n6. **Historical Bias**: Biases reflecting historical discrimination in source data"
+  },
+  "017": {
+    "title": "Model Validation",
+    "section": "5.4.2",
+    "purpose": "Validate AI models meet performance, safety, and fairness requirements before deployment",
+    "category": "ai-model",
+    "crossFramework": {
+      "iso42001": "8.3 (AI System Validation)",
+      "euAiAct": "Article 15 (Accuracy, Robustness, Cybersecurity)",
+      "iso24028": "Robustness and Reliability",
+      "nistAiRmf": "MEASURE 2.1, MEASURE 2.2"
+    },
+    "relatedControls": [
+      "009",
+      "016",
+      "019",
+      "021"
+    ],
+    "description": "Implements EN 18031 Section 5.4.2 to establish rigorous model validation processes ensuring AI models meet all performance, fairness, safety, and robustness requirements before production deployment. Validation includes statistical performance testing, fairness auditing, adversarial robustness testing, and safety verification.\n\nModel validation requirements:\n1. **Performance Validation**: Quantitative metrics on holdout test sets\n2. **Fairness Validation**: Demographic parity and equalized odds testing\n3. **Robustness Validation**: Adversarial examples and distribution shift testing\n4. **Safety Validation**: Edge case and failure mode analysis\n5. **Explainability Validation**: Verification of model interpretability requirements\n6. **Regulatory Validation**: Compliance with applicable regulatory requirements"
+  }
+}

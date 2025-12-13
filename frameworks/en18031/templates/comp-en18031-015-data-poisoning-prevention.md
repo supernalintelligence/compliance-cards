@@ -3,6 +3,8 @@ id: comp-en18031-015-data-poisoning-prevention
 title: COMP-EN18031-015 - Data Poisoning Prevention
 sidebar_label: COMP-EN18031-015
 sidebar_position: 15
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-015: Data Poisoning Prevention

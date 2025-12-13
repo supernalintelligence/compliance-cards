@@ -3,6 +3,8 @@ id: comp-hipaa-053-integrity-controls
 title: COMP-HIPAA-053 - Integrity Controls
 sidebar_label: COMP-HIPAA-053
 sidebar_position: 53
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-053: Integrity Controls

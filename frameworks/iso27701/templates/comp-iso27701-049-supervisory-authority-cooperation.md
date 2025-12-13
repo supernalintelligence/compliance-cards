@@ -3,6 +3,8 @@ id: comp-iso27701-049-supervisory-authority-cooperation
 title: COMP-ISO27701-049 - Supervisory Authority Cooperation
 sidebar_label: COMP-ISO27701-049
 sidebar_position: 49
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-049: Supervisory Authority Cooperation

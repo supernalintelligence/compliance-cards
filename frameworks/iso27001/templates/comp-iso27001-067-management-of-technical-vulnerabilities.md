@@ -3,6 +3,8 @@ id: comp-iso27001-067-management-of-technical-vulnerabilities
 title: COMP-ISO27001-067 - Management of Technical Vulnerabilities
 sidebar_label: COMP-ISO27001-067
 sidebar_position: 67
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-067: Management of Technical Vulnerabilities

@@ -3,6 +3,8 @@ id: comp-iso27001-049-physical-security-monitoring
 title: COMP-ISO27001-049 - Physical Security Monitoring
 sidebar_label: COMP-ISO27001-049
 sidebar_position: 49
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-049: Physical Security Monitoring

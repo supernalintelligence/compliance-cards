@@ -3,6 +3,8 @@ id: comp-iso27701-041-records-of-processing-activities
 title: COMP-ISO27701-041 - Records of Processing Activities
 sidebar_label: COMP-ISO27701-041
 sidebar_position: 41
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-041: Records of Processing Activities

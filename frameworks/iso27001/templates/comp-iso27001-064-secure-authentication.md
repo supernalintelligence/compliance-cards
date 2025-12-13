@@ -3,6 +3,8 @@ id: comp-iso27001-064-secure-authentication
 title: COMP-ISO27001-064 - Secure Authentication
 sidebar_label: COMP-ISO27001-064
 sidebar_position: 64
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-064: Secure Authentication

@@ -3,6 +3,8 @@ id: comp-iso27701-032-privacy-by-default
 title: COMP-ISO27701-032 - Privacy by Default
 sidebar_label: COMP-ISO27701-032
 sidebar_position: 32
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-032: Privacy by Default

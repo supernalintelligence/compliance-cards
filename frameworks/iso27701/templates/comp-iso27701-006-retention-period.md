@@ -3,6 +3,8 @@ id: comp-iso27701-006-retention-period
 title: COMP-ISO27701-006 - Retention Period
 sidebar_label: COMP-ISO27701-006
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-006: Retention Period

@@ -3,6 +3,8 @@ id: comp-iso27001-051-working-in-secure-areas
 title: COMP-ISO27001-051 - Working in Secure Areas
 sidebar_label: COMP-ISO27001-051
 sidebar_position: 51
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-051: Working in Secure Areas

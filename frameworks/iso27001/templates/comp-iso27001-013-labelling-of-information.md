@@ -3,6 +3,8 @@ id: comp-iso27001-013-labelling-of-information
 title: COMP-ISO27001-013 - Labelling of Information
 sidebar_label: COMP-ISO27001-013
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-013: Labelling of Information

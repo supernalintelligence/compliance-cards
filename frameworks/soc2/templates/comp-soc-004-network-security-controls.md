@@ -3,6 +3,8 @@ id: comp-soc-004-network-security-controls
 title: COMP-SOC-004 - Network Security Controls
 sidebar_label: COMP-SOC-004 Network
 sidebar_position: 4
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-004: Network Security Controls

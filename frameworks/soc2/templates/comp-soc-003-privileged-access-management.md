@@ -3,6 +3,8 @@ id: comp-soc-003-privileged-access-management
 title: COMP-SOC-003 - Privileged Access Management
 sidebar_label: COMP-SOC-003 PAM
 sidebar_position: 3
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-003: Privileged Access Management

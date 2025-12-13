@@ -3,6 +3,8 @@ id: comp-fda-002-software-development-lifecycle
 title: COMP-FDA-002 - Software Development Lifecycle
 sidebar_label: COMP-FDA-002 SDLC
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-002: Software Development Lifecycle

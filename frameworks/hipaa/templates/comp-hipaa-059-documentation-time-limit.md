@@ -3,6 +3,8 @@ id: comp-hipaa-059-documentation-time-limit
 title: COMP-HIPAA-059 - Documentation - Time Limit
 sidebar_label: COMP-HIPAA-059
 sidebar_position: 59
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-059: Documentation - Time Limit

@@ -3,6 +3,8 @@ id: comp-hipaa-019-password-management
 title: COMP-HIPAA-019 - Password Management
 sidebar_label: COMP-HIPAA-019
 sidebar_position: 19
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-019: Password Management

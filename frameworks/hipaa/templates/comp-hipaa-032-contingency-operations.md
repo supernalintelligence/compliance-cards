@@ -3,6 +3,8 @@ id: comp-hipaa-032-contingency-operations
 title: COMP-HIPAA-032 - Contingency Operations
 sidebar_label: COMP-HIPAA-032
 sidebar_position: 32
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-032: Contingency Operations

@@ -3,6 +3,8 @@ id: comp-iso27001-065-capacity-management
 title: COMP-ISO27001-065 - Capacity Management
 sidebar_label: COMP-ISO27001-065
 sidebar_position: 65
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-065: Capacity Management

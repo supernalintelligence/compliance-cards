@@ -3,6 +3,8 @@ id: comp-iso27001-072-information-backup
 title: COMP-ISO27001-072 - Information Backup
 sidebar_label: COMP-ISO27001-072
 sidebar_position: 72
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-072: Information Backup

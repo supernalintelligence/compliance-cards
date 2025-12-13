@@ -3,6 +3,8 @@ id: comp-iso27001-073-redundancy-of-information-processing-facilities
 title: COMP-ISO27001-073 - Redundancy of Information Processing Facilities
 sidebar_label: COMP-ISO27001-073
 sidebar_position: 73
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-073: Redundancy of Information Processing Facilities

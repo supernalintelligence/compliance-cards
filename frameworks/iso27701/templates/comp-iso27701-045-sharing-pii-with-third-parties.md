@@ -3,6 +3,8 @@ id: comp-iso27701-045-sharing-pii-with-third-parties
 title: COMP-ISO27701-045 - Sharing PII with Third Parties
 sidebar_label: COMP-ISO27701-045
 sidebar_position: 45
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-045: Sharing PII with Third Parties

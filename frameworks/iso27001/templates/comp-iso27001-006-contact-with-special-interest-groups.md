@@ -3,6 +3,8 @@ id: comp-iso27001-006-contact-with-special-interest-groups
 title: COMP-ISO27001-006 - Contact with Special Interest Groups
 sidebar_label: COMP-ISO27001-006
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-006: Contact with Special Interest Groups

@@ -3,6 +3,8 @@ id: comp-hipaa-017-protection-from-malicious-software
 title: COMP-HIPAA-017 - Protection from Malicious Software
 sidebar_label: COMP-HIPAA-017
 sidebar_position: 17
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-017: Protection from Malicious Software

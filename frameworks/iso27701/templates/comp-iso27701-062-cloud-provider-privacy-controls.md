@@ -3,6 +3,8 @@ id: comp-iso27701-062-cloud-provider-privacy-controls
 title: COMP-ISO27701-062 - Cloud Provider Privacy Controls
 sidebar_label: COMP-ISO27701-062
 sidebar_position: 62
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-062: Cloud Provider Privacy Controls

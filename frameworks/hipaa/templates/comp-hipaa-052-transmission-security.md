@@ -3,6 +3,8 @@ id: comp-hipaa-052-transmission-security
 title: COMP-HIPAA-052 - Transmission Security
 sidebar_label: COMP-HIPAA-052
 sidebar_position: 52
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-052: Transmission Security

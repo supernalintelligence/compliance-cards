@@ -3,6 +3,8 @@ id: comp-iso27001-050-protecting-against-physical-and-environmental-threats
 title: COMP-ISO27001-050 - Protecting Against Physical and Environmental Threats
 sidebar_label: COMP-ISO27001-050
 sidebar_position: 50
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-050: Protecting Against Physical and Environmental Threats

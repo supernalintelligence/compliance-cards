@@ -3,6 +3,8 @@ id: comp-gdpr-013-encryption-and-security
 title: COMP-GDPR-013 - Encryption and Security
 sidebar_label: COMP-GDPR-013 Encryption
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-013: Encryption and Security

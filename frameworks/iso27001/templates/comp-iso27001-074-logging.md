@@ -3,6 +3,8 @@ id: comp-iso27001-074-logging
 title: COMP-ISO27001-074 - Logging
 sidebar_label: COMP-ISO27001-074
 sidebar_position: 74
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-074: Logging

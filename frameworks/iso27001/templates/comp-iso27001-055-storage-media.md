@@ -3,6 +3,8 @@ id: comp-iso27001-055-storage-media
 title: COMP-ISO27001-055 - Storage Media
 sidebar_label: COMP-ISO27001-055
 sidebar_position: 55
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-055: Storage Media

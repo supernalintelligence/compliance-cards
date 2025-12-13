@@ -3,6 +3,8 @@ id: comp-iso27001-081-segregation-of-networks
 title: COMP-ISO27001-081 - Segregation of Networks
 sidebar_label: COMP-ISO27001-081
 sidebar_position: 81
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-081: Segregation of Networks

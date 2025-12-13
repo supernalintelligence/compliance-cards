@@ -3,6 +3,8 @@ id: comp-iso27701-055-de-identification-procedures
 title: COMP-ISO27701-055 - De-identification Procedures
 sidebar_label: COMP-ISO27701-055
 sidebar_position: 55
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-055: De-identification Procedures

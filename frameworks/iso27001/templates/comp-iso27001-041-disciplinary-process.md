@@ -3,6 +3,8 @@ id: comp-iso27001-041-disciplinary-process
 title: COMP-ISO27001-041 - Disciplinary Process
 sidebar_label: COMP-ISO27001-041
 sidebar_position: 41
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-041: Disciplinary Process

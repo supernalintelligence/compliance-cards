@@ -3,6 +3,8 @@ id: comp-hipaa-062-documentation-electronic
 title: COMP-HIPAA-062 - Documentation - Electronic
 sidebar_label: COMP-HIPAA-062
 sidebar_position: 62
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-062: Documentation - Electronic

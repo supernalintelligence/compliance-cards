@@ -3,6 +3,8 @@ id: comp-hipaa-011-information-access-management
 title: COMP-HIPAA-011 - Information Access Management
 sidebar_label: COMP-HIPAA-011
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-011: Information Access Management

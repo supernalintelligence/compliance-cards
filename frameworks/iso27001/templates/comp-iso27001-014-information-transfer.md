@@ -3,6 +3,8 @@ id: comp-iso27001-014-information-transfer
 title: COMP-ISO27001-014 - Information Transfer
 sidebar_label: COMP-ISO27001-014
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-014: Information Transfer

@@ -3,6 +3,8 @@ id: comp-iso27701-057-data-breach-notification
 title: COMP-ISO27701-057 - Data Breach Notification
 sidebar_label: COMP-ISO27701-057
 sidebar_position: 57
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-057: Data Breach Notification

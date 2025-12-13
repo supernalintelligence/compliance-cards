@@ -3,6 +3,8 @@ id: comp-gdpr-009-right-to-data-portability
 title: COMP-GDPR-009 - Right to Data Portability
 sidebar_label: COMP-GDPR-009 Portability
 sidebar_position: 9
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-009: Right to Data Portability

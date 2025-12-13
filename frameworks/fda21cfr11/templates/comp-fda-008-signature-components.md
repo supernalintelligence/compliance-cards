@@ -3,6 +3,8 @@ id: comp-fda-008-signature-components
 title: COMP-FDA-008 - Signature Components
 sidebar_label: COMP-FDA-008 Signature Components
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-008: Signature Components

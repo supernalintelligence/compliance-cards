@@ -3,6 +3,8 @@ id: comp-iso27001-078-installation-of-software-on-operational-systems
 title: COMP-ISO27001-078 - Installation of Software on Operational Systems
 sidebar_label: COMP-ISO27001-078
 sidebar_position: 78
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-078: Installation of Software on Operational Systems

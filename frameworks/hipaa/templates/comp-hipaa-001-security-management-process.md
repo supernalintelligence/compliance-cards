@@ -3,6 +3,8 @@ id: comp-hipaa-001-security-management-process
 title: COMP-HIPAA-001 - Security Management Process
 sidebar_label: COMP-HIPAA-001
 sidebar_position: 1
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-001: Security Management Process

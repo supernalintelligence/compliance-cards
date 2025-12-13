@@ -3,6 +3,8 @@ id: comp-iso27701-050-privacy-metrics
 title: COMP-ISO27701-050 - Privacy Metrics
 sidebar_label: COMP-ISO27701-050
 sidebar_position: 50
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-050: Privacy Metrics

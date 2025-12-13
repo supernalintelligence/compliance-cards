@@ -3,6 +3,8 @@ id: comp-soc-010-incident-response
 title: COMP-SOC-010 - Incident Response
 sidebar_label: COMP-SOC-010 Incident
 sidebar_position: 10
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-010: Incident Response

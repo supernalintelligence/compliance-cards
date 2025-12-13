@@ -3,6 +3,8 @@ id: comp-hipaa-010-termination-procedures
 title: COMP-HIPAA-010 - Termination Procedures
 sidebar_label: COMP-HIPAA-010
 sidebar_position: 10
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-010: Termination Procedures

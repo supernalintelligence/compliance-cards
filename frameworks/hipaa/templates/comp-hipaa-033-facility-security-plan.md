@@ -3,6 +3,8 @@ id: comp-hipaa-033-facility-security-plan
 title: COMP-HIPAA-033 - Facility Security Plan
 sidebar_label: COMP-HIPAA-033
 sidebar_position: 33
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-033: Facility Security Plan

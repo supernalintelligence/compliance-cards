@@ -3,6 +3,8 @@ id: comp-iso27701-040-international-transfers-records
 title: COMP-ISO27701-040 - International Transfers - Records
 sidebar_label: COMP-ISO27701-040
 sidebar_position: 40
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-040: International Transfers - Records

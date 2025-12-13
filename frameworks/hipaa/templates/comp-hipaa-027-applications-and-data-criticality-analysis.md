@@ -3,6 +3,8 @@ id: comp-hipaa-027-applications-and-data-criticality-analysis
 title: COMP-HIPAA-027 - Applications and Data Criticality Analysis
 sidebar_label: COMP-HIPAA-027
 sidebar_position: 27
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-027: Applications and Data Criticality Analysis

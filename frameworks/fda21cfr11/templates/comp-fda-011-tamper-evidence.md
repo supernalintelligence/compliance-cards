@@ -3,6 +3,8 @@ id: comp-fda-011-tamper-evidence
 title: COMP-FDA-011 - Tamper Evidence
 sidebar_label: COMP-FDA-011 Tamper
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-011: Tamper Evidence

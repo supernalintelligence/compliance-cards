@@ -3,6 +3,8 @@ id: comp-iso27701-043-privacy-notices
 title: COMP-ISO27701-043 - Privacy Notices
 sidebar_label: COMP-ISO27701-043
 sidebar_position: 43
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-043: Privacy Notices

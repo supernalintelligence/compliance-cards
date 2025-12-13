@@ -3,6 +3,8 @@ id: comp-iso-007-product-realization
 title: COMP-ISO-007 - Product Realization
 sidebar_label: COMP-ISO-007 Product Realization
 sidebar_position: 7
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-007: Product Realization

@@ -3,6 +3,8 @@ id: comp-en18031-008-ai-stakeholder-engagement
 title: COMP-EN18031-008 - AI Stakeholder Engagement
 sidebar_label: COMP-EN18031-008
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-008: AI Stakeholder Engagement

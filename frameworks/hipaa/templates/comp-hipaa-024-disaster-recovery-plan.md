@@ -3,6 +3,8 @@ id: comp-hipaa-024-disaster-recovery-plan
 title: COMP-HIPAA-024 - Disaster Recovery Plan
 sidebar_label: COMP-HIPAA-024
 sidebar_position: 24
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-024: Disaster Recovery Plan

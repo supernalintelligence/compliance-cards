@@ -3,6 +3,8 @@ id: comp-iso27701-022-limitation-of-processing
 title: COMP-ISO27701-022 - Limitation of Processing
 sidebar_label: COMP-ISO27701-022
 sidebar_position: 22
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-022: Limitation of Processing

@@ -3,6 +3,8 @@ id: comp-iso27701-013-obligations-to-data-subjects-automated-decision-making
 title: COMP-ISO27701-013 - Obligations to Data Subjects - Automated Decision Making
 sidebar_label: COMP-ISO27701-013
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-013: Obligations to Data Subjects - Automated Decision Making

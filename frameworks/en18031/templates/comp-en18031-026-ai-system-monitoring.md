@@ -3,6 +3,8 @@ id: comp-en18031-026-ai-system-monitoring
 title: COMP-EN18031-026 - AI System Monitoring
 sidebar_label: COMP-EN18031-026
 sidebar_position: 26
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-026: AI System Monitoring

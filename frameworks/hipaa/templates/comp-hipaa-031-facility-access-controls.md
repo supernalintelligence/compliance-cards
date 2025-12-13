@@ -3,6 +3,8 @@ id: comp-hipaa-031-facility-access-controls
 title: COMP-HIPAA-031 - Facility Access Controls
 sidebar_label: COMP-HIPAA-031
 sidebar_position: 31
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-031: Facility Access Controls

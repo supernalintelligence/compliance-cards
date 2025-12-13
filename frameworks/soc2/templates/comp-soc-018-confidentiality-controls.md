@@ -3,6 +3,8 @@ id: comp-soc-018-confidentiality-controls
 title: COMP-SOC-018 - Confidentiality Controls
 sidebar_label: COMP-SOC-018 Confidentiality
 sidebar_position: 18
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-018: Confidentiality Controls

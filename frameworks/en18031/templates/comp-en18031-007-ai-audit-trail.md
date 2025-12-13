@@ -3,6 +3,8 @@ id: comp-en18031-007-ai-audit-trail
 title: COMP-EN18031-007 - AI Audit Trail
 sidebar_label: COMP-EN18031-007
 sidebar_position: 7
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-007: AI Audit Trail

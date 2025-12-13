@@ -3,6 +3,8 @@ id: comp-hipaa-012-isolating-healthcare-clearinghouse-functions
 title: COMP-HIPAA-012 - Isolating Healthcare Clearinghouse Functions
 sidebar_label: COMP-HIPAA-012
 sidebar_position: 12
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-012: Isolating Healthcare Clearinghouse Functions

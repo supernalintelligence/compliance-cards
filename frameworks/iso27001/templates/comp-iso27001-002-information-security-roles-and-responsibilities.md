@@ -3,6 +3,8 @@ id: comp-iso27001-002-information-security-roles-and-responsibilities
 title: COMP-ISO27001-002 - Information Security Roles and Responsibilities
 sidebar_label: COMP-ISO27001-002
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-002: Information Security Roles and Responsibilities

@@ -3,6 +3,8 @@ id: comp-hipaa-036-workstation-use
 title: COMP-HIPAA-036 - Workstation Use
 sidebar_label: COMP-HIPAA-036
 sidebar_position: 36
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-036: Workstation Use

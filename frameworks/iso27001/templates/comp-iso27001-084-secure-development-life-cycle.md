@@ -3,6 +3,8 @@ id: comp-iso27001-084-secure-development-life-cycle
 title: COMP-ISO27001-084 - Secure Development Life Cycle
 sidebar_label: COMP-ISO27001-084
 sidebar_position: 84
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-084: Secure Development Life Cycle

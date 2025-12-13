@@ -3,6 +3,8 @@ id: comp-gdpr-005-storage-limitation
 title: COMP-GDPR-005 - Storage Limitation
 sidebar_label: COMP-GDPR-005 Storage Limitation
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-005: Storage Limitation

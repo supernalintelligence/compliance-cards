@@ -3,6 +3,8 @@ id: comp-iso27701-009-accuracy-and-quality
 title: COMP-ISO27701-009 - Accuracy and Quality
 sidebar_label: COMP-ISO27701-009
 sidebar_position: 9
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-009: Accuracy and Quality

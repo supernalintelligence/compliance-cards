@@ -3,6 +3,8 @@ id: comp-hipaa-014-access-establishment-and-modification
 title: COMP-HIPAA-014 - Access Establishment and Modification
 sidebar_label: COMP-HIPAA-014
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-014: Access Establishment and Modification

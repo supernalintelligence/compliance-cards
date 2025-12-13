@@ -3,6 +3,8 @@ id: comp-iso27701-054-pii-pseudonymization
 title: COMP-ISO27701-054 - PII Pseudonymization
 sidebar_label: COMP-ISO27701-054
 sidebar_position: 54
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-054: PII Pseudonymization

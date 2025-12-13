@@ -3,6 +3,8 @@ id: comp-iso27701-015-obligations-to-data-subjects-portability
 title: COMP-ISO27701-015 - Obligations to Data Subjects - Portability
 sidebar_label: COMP-ISO27701-015
 sidebar_position: 15
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-015: Obligations to Data Subjects - Portability

@@ -3,6 +3,8 @@ id: comp-hipaa-026-testing-and-revision-procedures
 title: COMP-HIPAA-026 - Testing and Revision Procedures
 sidebar_label: COMP-HIPAA-026
 sidebar_position: 26
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-026: Testing and Revision Procedures

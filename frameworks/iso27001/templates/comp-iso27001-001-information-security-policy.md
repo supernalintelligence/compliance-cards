@@ -3,6 +3,8 @@ id: comp-iso27001-001-information-security-policy
 title: COMP-ISO27001-001 - Information Security Policy
 sidebar_label: COMP-ISO27001-001 Security Policy
 sidebar_position: 1
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-001: Information Security Policy

@@ -3,6 +3,8 @@ id: comp-iso27701-027-international-transfer
 title: COMP-ISO27701-027 - International Transfer
 sidebar_label: COMP-ISO27701-027
 sidebar_position: 27
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-027: International Transfer

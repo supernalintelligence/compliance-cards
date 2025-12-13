@@ -3,6 +3,8 @@ id: comp-iso27701-002-processing-according-to-lawful-basis
 title: COMP-ISO27701-002 - Processing According to Lawful Basis
 sidebar_label: COMP-ISO27701-002
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-002: Processing According to Lawful Basis

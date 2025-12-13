@@ -3,6 +3,8 @@ id: comp-iso27001-060-user-endpoint-devices
 title: COMP-ISO27001-060 - User Endpoint Devices
 sidebar_label: COMP-ISO27001-060
 sidebar_position: 60
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-060: User Endpoint Devices

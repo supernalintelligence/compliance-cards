@@ -3,6 +3,8 @@ id: comp-iso-012-production-controls
 title: COMP-ISO-012 - Production Controls
 sidebar_label: COMP-ISO-012 Production
 sidebar_position: 12
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-012: Production Controls

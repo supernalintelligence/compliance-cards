@@ -3,6 +3,8 @@ id: comp-soc-002-multi-factor-authentication
 title: COMP-SOC-002 - Multi-Factor Authentication
 sidebar_label: COMP-SOC-002 MFA
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-002: Multi-Factor Authentication

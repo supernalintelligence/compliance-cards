@@ -3,6 +3,8 @@ id: comp-iso27001-056-supporting-utilities
 title: COMP-ISO27001-056 - Supporting Utilities
 sidebar_label: COMP-ISO27001-056
 sidebar_position: 56
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-056: Supporting Utilities

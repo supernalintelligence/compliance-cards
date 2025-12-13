@@ -3,6 +3,8 @@ id: comp-iso-013-monitoring-and-measurement
 title: COMP-ISO-013 - Monitoring and Measurement
 sidebar_label: COMP-ISO-013 Monitoring
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-013: Monitoring and Measurement

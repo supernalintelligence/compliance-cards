@@ -3,6 +3,8 @@ id: comp-iso27001-032-intellectual-property-rights
 title: COMP-ISO27001-032 - Intellectual Property Rights
 sidebar_label: COMP-ISO27001-032
 sidebar_position: 32
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-032: Intellectual Property Rights

@@ -3,6 +3,8 @@ id: comp-iso27701-019-data-subject-request-interface
 title: COMP-ISO27701-019 - Data Subject Request Interface
 sidebar_label: COMP-ISO27701-019
 sidebar_position: 19
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-019: Data Subject Request Interface

@@ -3,6 +3,8 @@ id: comp-iso27001-040-information-security-awareness-education-and-training
 title: COMP-ISO27001-040 - Information Security Awareness, Education and Training
 sidebar_label: COMP-ISO27001-040
 sidebar_position: 40
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-040: Information Security Awareness, Education and Training

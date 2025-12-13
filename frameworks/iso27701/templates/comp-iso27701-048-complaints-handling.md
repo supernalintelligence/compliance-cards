@@ -3,6 +3,8 @@ id: comp-iso27701-048-complaints-handling
 title: COMP-ISO27701-048 - Complaints Handling
 sidebar_label: COMP-ISO27701-048
 sidebar_position: 48
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-048: Complaints Handling

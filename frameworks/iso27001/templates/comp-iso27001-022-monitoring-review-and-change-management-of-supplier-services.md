@@ -3,6 +3,8 @@ id: comp-iso27001-022-monitoring-review-and-change-management-of-supplier-servic
 title: COMP-ISO27001-022 - Monitoring, Review and Change Management of Supplier Services
 sidebar_label: COMP-ISO27001-022
 sidebar_position: 22
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-022: Monitoring, Review and Change Management of Supplier Services

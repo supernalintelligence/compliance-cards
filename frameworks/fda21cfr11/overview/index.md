@@ -168,8 +168,8 @@ All FDA 21 CFR Part 11 template requirements follow the standard See requirement
 ## Related Documentation
 
 - [FDA 21 CFR Part 11 Template Requirements](../templates/index.md) - Complete list of template requirements
-- [Computer System Validation Guide](../../../../requirements/compliance/processes/validation/csv-guide.md) - CSV implementation guidance
-- [Electronic Signature Implementation](../../../../requirements/compliance/processes/implementation/electronic-signatures.md) - E-signature technical guide
+- [Computer System Validation Guide](../../../../../docs/requirements/compliance/processes/validation/csv-guide.md) - CSV implementation guidance
+- [Electronic Signature Implementation](../../../../../docs/requirements/compliance/processes/implementation/electronic-signatures.md) - E-signature technical guide
 
 ## Compliance Benefits
 

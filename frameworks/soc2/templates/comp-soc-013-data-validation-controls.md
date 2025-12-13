@@ -3,6 +3,8 @@ id: comp-soc-013-data-validation-controls
 title: COMP-SOC-013 - Data Validation Controls
 sidebar_label: COMP-SOC-013 Validation
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-013: Data Validation Controls

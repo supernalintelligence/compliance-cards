@@ -3,6 +3,8 @@ id: comp-soc-016-system-interfaces
 title: COMP-SOC-016 - System Interfaces
 sidebar_label: COMP-SOC-016 Interfaces
 sidebar_position: 16
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-016: System Interfaces

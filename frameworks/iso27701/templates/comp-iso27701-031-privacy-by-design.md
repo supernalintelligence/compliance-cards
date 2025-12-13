@@ -3,6 +3,8 @@ id: comp-iso27701-031-privacy-by-design
 title: COMP-ISO27701-031 - Privacy by Design
 sidebar_label: COMP-ISO27701-031
 sidebar_position: 31
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-031: Privacy by Design

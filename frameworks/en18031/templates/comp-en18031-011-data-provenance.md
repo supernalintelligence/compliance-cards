@@ -3,6 +3,8 @@ id: comp-en18031-011-data-provenance
 title: COMP-EN18031-011 - Data Provenance
 sidebar_label: COMP-EN18031-011
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-011: Data Provenance

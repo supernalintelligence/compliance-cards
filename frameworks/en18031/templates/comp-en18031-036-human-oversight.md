@@ -3,6 +3,8 @@ id: comp-en18031-036-human-oversight
 title: COMP-EN18031-036 - Human Oversight
 sidebar_label: COMP-EN18031-036
 sidebar_position: 36
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-036: Human Oversight

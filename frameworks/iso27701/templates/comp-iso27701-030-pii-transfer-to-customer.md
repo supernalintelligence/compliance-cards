@@ -3,6 +3,8 @@ id: comp-iso27701-030-pii-transfer-to-customer
 title: COMP-ISO27701-030 - PII Transfer to Customer
 sidebar_label: COMP-ISO27701-030
 sidebar_position: 30
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-030: PII Transfer to Customer

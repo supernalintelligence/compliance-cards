@@ -3,6 +3,8 @@ id: comp-iso27701-044-cookie-and-tracking-consent
 title: COMP-ISO27701-044 - Cookie and Tracking Consent
 sidebar_label: COMP-ISO27701-044
 sidebar_position: 44
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-044: Cookie and Tracking Consent

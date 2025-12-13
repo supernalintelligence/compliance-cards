@@ -3,6 +3,8 @@ id: comp-iso27001-052-clear-desk-and-clear-screen
 title: COMP-ISO27001-052 - Clear Desk and Clear Screen
 sidebar_label: COMP-ISO27001-052
 sidebar_position: 52
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-052: Clear Desk and Clear Screen

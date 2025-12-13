@@ -3,6 +3,8 @@ id: comp-iso27001-010-acceptable-use-of-information-and-assets
 title: COMP-ISO27001-010 - Acceptable Use of Information and Assets
 sidebar_label: COMP-ISO27001-010
 sidebar_position: 10
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-010: Acceptable Use of Information and Assets

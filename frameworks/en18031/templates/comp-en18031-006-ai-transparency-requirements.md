@@ -3,6 +3,8 @@ id: comp-en18031-006-ai-transparency-requirements
 title: COMP-EN18031-006 - AI Transparency Requirements
 sidebar_label: COMP-EN18031-006
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-006: AI Transparency Requirements

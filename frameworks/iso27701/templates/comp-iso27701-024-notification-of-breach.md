@@ -3,6 +3,8 @@ id: comp-iso27701-024-notification-of-breach
 title: COMP-ISO27701-024 - Notification of Breach
 sidebar_label: COMP-ISO27701-024
 sidebar_position: 24
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-024: Notification of Breach

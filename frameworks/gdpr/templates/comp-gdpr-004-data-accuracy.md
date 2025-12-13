@@ -3,6 +3,8 @@ id: comp-gdpr-004-data-accuracy
 title: COMP-GDPR-004 - Data Accuracy
 sidebar_label: COMP-GDPR-004 Data Accuracy
 sidebar_position: 4
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-004: Data Accuracy

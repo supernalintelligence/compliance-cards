@@ -3,6 +3,8 @@ id: comp-fda-012-record-retention
 title: COMP-FDA-012 - Record Retention
 sidebar_label: COMP-FDA-012 Retention
 sidebar_position: 12
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-012: Record Retention

@@ -3,6 +3,8 @@ id: comp-iso27001-011-return-of-assets
 title: COMP-ISO27001-011 - Return of Assets
 sidebar_label: COMP-ISO27001-011
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-011: Return of Assets

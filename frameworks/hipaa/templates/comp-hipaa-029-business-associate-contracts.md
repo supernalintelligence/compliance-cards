@@ -3,6 +3,8 @@ id: comp-hipaa-029-business-associate-contracts
 title: COMP-HIPAA-029 - Business Associate Contracts
 sidebar_label: COMP-HIPAA-029
 sidebar_position: 29
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-029: Business Associate Contracts

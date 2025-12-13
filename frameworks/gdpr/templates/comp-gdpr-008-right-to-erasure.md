@@ -3,6 +3,8 @@ id: comp-gdpr-008-right-to-erasure
 title: COMP-GDPR-008 - Right to Erasure
 sidebar_label: COMP-GDPR-008 Right to Erasure
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-008: Right to Erasure

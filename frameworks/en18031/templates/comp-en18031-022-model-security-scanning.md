@@ -3,6 +3,8 @@ id: comp-en18031-022-model-security-scanning
 title: COMP-EN18031-022 - Model Security Scanning
 sidebar_label: COMP-EN18031-022
 sidebar_position: 22
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-022: Model Security Scanning

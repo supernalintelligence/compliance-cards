@@ -3,6 +3,8 @@ id: comp-iso27001-020-addressing-information-security-in-supplier-agreements
 title: COMP-ISO27001-020 - Addressing Information Security in Supplier Agreements
 sidebar_label: COMP-ISO27001-020
 sidebar_position: 20
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-020: Addressing Information Security in Supplier Agreements

@@ -3,6 +3,8 @@ id: comp-soc-011-change-management
 title: COMP-SOC-011 - Change Management
 sidebar_label: COMP-SOC-011 Change
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-011: Change Management

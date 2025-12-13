@@ -3,6 +3,8 @@ id: comp-hipaa-041-accountability
 title: COMP-HIPAA-041 - Accountability
 sidebar_label: COMP-HIPAA-041
 sidebar_position: 41
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-041: Accountability

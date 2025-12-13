@@ -3,6 +3,8 @@ id: comp-hipaa-015-security-awareness-and-training
 title: COMP-HIPAA-015 - Security Awareness and Training
 sidebar_label: COMP-HIPAA-015
 sidebar_position: 15
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-015: Security Awareness and Training

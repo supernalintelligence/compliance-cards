@@ -3,6 +3,8 @@ id: comp-en18031-040-emergency-stop-procedures
 title: COMP-EN18031-040 - Emergency Stop Procedures
 sidebar_label: COMP-EN18031-040
 sidebar_position: 40
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-040: Emergency Stop Procedures

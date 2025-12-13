@@ -3,6 +3,8 @@ id: comp-iso27001-016-identity-management
 title: COMP-ISO27001-016 - Identity Management
 sidebar_label: COMP-ISO27001-016
 sidebar_position: 16
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-016: Identity Management

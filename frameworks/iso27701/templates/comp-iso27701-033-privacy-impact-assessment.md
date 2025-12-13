@@ -3,6 +3,8 @@ id: comp-iso27701-033-privacy-impact-assessment
 title: COMP-ISO27701-033 - Privacy Impact Assessment
 sidebar_label: COMP-ISO27701-033
 sidebar_position: 33
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-033: Privacy Impact Assessment

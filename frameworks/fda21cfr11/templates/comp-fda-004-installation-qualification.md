@@ -3,6 +3,8 @@ id: comp-fda-004-installation-qualification
 title: COMP-FDA-004 - Installation Qualification
 sidebar_label: COMP-FDA-004 IQ
 sidebar_position: 4
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-004: Installation Qualification

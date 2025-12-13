@@ -3,6 +3,8 @@ id: comp-soc-009-backup-and-recovery
 title: COMP-SOC-009 - Backup and Recovery
 sidebar_label: COMP-SOC-009 Backup
 sidebar_position: 9
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-009: Backup and Recovery

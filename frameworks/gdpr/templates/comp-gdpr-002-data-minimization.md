@@ -3,6 +3,8 @@ id: comp-gdpr-002-data-minimization
 title: COMP-GDPR-002 - Data Minimization
 sidebar_label: COMP-GDPR-002 Data Minimization
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-002: Data Minimization

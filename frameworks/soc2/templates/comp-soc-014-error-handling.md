@@ -3,6 +3,8 @@ id: comp-soc-014-error-handling
 title: COMP-SOC-014 - Error Handling
 sidebar_label: COMP-SOC-014 Errors
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-014: Error Handling

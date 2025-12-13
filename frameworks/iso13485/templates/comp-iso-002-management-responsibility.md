@@ -3,6 +3,8 @@ id: comp-iso-002-management-responsibility
 title: COMP-ISO-002 - Management Responsibility
 sidebar_label: COMP-ISO-002 Management
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-002: Management Responsibility

@@ -3,6 +3,8 @@ id: comp-iso27001-009-inventory-of-information-and-assets
 title: COMP-ISO27001-009 - Inventory of Information and Assets
 sidebar_label: COMP-ISO27001-009
 sidebar_position: 9
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-009: Inventory of Information and Assets

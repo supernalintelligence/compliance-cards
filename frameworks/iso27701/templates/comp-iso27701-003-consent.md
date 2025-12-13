@@ -3,6 +3,8 @@ id: comp-iso27701-003-consent
 title: COMP-ISO27701-003 - Consent
 sidebar_label: COMP-ISO27701-003
 sidebar_position: 3
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-003: Consent

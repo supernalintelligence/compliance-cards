@@ -3,6 +3,8 @@ id: comp-hipaa-018-log-in-monitoring
 title: COMP-HIPAA-018 - Log-in Monitoring
 sidebar_label: COMP-HIPAA-018
 sidebar_position: 18
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-018: Log-in Monitoring

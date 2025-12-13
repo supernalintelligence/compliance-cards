@@ -3,6 +3,8 @@ id: comp-hipaa-006-assigned-security-responsibility
 title: COMP-HIPAA-006 - Assigned Security Responsibility
 sidebar_label: COMP-HIPAA-006
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-006: Assigned Security Responsibility

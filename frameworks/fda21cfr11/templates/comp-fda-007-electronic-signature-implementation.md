@@ -3,6 +3,8 @@ id: comp-fda-007-electronic-signature-implementation
 title: COMP-FDA-007 - Electronic Signature Implementation
 sidebar_label: COMP-FDA-007 E-Signatures
 sidebar_position: 7
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-007: Electronic Signature Implementation

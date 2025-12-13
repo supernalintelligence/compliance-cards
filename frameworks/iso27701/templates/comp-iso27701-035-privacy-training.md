@@ -3,6 +3,8 @@ id: comp-iso27701-035-privacy-training
 title: COMP-ISO27701-035 - Privacy Training
 sidebar_label: COMP-ISO27701-035
 sidebar_position: 35
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-035: Privacy Training

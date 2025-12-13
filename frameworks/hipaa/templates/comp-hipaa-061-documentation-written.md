@@ -3,6 +3,8 @@ id: comp-hipaa-061-documentation-written
 title: COMP-HIPAA-061 - Documentation - Written
 sidebar_label: COMP-HIPAA-061
 sidebar_position: 61
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-061: Documentation - Written

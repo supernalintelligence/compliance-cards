@@ -3,6 +3,8 @@ id: comp-iso27701-004-providing-privacy-notice
 title: COMP-ISO27701-004 - Providing Privacy Notice
 sidebar_label: COMP-ISO27701-004
 sidebar_position: 4
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-004: Providing Privacy Notice

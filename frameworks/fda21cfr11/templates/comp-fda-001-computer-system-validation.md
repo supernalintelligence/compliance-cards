@@ -3,6 +3,8 @@ id: comp-fda-001-computer-system-validation
 title: COMP-FDA-001 - Computer System Validation
 sidebar_label: COMP-FDA-001 CSV
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-001: Computer System Validation

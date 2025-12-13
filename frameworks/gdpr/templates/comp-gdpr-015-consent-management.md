@@ -3,6 +3,8 @@ id: comp-gdpr-015-consent-management
 title: COMP-GDPR-015 - Consent Management
 sidebar_label: COMP-GDPR-015 Consent
 sidebar_position: 15
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-015: Consent Management

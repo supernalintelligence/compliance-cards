@@ -3,6 +3,8 @@ id: comp-iso27001-093-protection-of-information-systems-during-audit-testing
 title: COMP-ISO27001-093 - Protection of Information Systems During Audit Testing
 sidebar_label: COMP-ISO27001-093
 sidebar_position: 93
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-093: Protection of Information Systems During Audit Testing

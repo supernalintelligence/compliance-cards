@@ -3,6 +3,8 @@ id: comp-iso27001-047-physical-entry
 title: COMP-ISO27001-047 - Physical Entry
 sidebar_label: COMP-ISO27001-047
 sidebar_position: 47
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-047: Physical Entry

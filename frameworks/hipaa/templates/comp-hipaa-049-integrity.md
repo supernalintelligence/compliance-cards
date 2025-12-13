@@ -3,6 +3,8 @@ id: comp-hipaa-049-integrity
 title: COMP-HIPAA-049 - Integrity
 sidebar_label: COMP-HIPAA-049
 sidebar_position: 49
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-049: Integrity

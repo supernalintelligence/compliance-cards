@@ -3,6 +3,8 @@ id: comp-iso27701-056-data-breach-response
 title: COMP-ISO27701-056 - Data Breach Response
 sidebar_label: COMP-ISO27701-056
 sidebar_position: 56
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-056: Data Breach Response

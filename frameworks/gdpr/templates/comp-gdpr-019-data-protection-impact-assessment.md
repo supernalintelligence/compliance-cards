@@ -3,6 +3,8 @@ id: comp-gdpr-019-data-protection-impact-assessment
 title: COMP-GDPR-019 - Data Protection Impact Assessment
 sidebar_label: COMP-GDPR-019 DPIA
 sidebar_position: 19
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-019: Data Protection Impact Assessment

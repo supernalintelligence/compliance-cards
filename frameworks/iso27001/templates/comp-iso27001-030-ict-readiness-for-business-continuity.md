@@ -3,6 +3,8 @@ id: comp-iso27001-030-ict-readiness-for-business-continuity
 title: COMP-ISO27001-030 - ICT Readiness for Business Continuity
 sidebar_label: COMP-ISO27001-030
 sidebar_position: 30
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-030: ICT Readiness for Business Continuity

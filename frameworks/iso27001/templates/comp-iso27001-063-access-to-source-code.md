@@ -3,6 +3,8 @@ id: comp-iso27001-063-access-to-source-code
 title: COMP-ISO27001-063 - Access to Source Code
 sidebar_label: COMP-ISO27001-063
 sidebar_position: 63
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-063: Access to Source Code

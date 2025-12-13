@@ -3,6 +3,8 @@ id: comp-fda-006-performance-qualification
 title: COMP-FDA-006 - Performance Qualification
 sidebar_label: COMP-FDA-006 PQ
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-006: Performance Qualification

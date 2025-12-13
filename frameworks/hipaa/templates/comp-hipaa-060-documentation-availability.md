@@ -3,6 +3,8 @@ id: comp-hipaa-060-documentation-availability
 title: COMP-HIPAA-060 - Documentation - Availability
 sidebar_label: COMP-HIPAA-060
 sidebar_position: 60
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-060: Documentation - Availability

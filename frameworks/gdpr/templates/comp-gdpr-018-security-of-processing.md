@@ -3,6 +3,8 @@ id: comp-gdpr-018-security-of-processing
 title: COMP-GDPR-018 - Security of Processing
 sidebar_label: COMP-GDPR-018 Security
 sidebar_position: 18
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-018: Security of Processing

@@ -3,6 +3,8 @@ id: comp-iso27701-039-international-transfers-safeguards
 title: COMP-ISO27701-039 - International Transfers - Safeguards
 sidebar_label: COMP-ISO27701-039
 sidebar_position: 39
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-039: International Transfers - Safeguards

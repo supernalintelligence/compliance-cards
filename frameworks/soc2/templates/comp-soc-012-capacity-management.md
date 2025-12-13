@@ -3,6 +3,8 @@ id: comp-soc-012-capacity-management
 title: COMP-SOC-012 - Capacity Management
 sidebar_label: COMP-SOC-012 Capacity
 sidebar_position: 12
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-012: Capacity Management

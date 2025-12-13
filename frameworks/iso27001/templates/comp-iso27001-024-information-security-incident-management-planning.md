@@ -3,6 +3,8 @@ id: comp-iso27001-024-information-security-incident-management-planning
 title: COMP-ISO27001-024 - Information Security Incident Management Planning
 sidebar_label: COMP-ISO27001-024
 sidebar_position: 24
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-024: Information Security Incident Management Planning

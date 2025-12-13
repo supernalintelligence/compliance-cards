@@ -3,6 +3,8 @@ id: comp-iso27001-057-cabling-security
 title: COMP-ISO27001-057 - Cabling Security
 sidebar_label: COMP-ISO27001-057
 sidebar_position: 57
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-057: Cabling Security

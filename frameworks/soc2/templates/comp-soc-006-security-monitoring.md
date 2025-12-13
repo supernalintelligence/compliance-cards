@@ -3,6 +3,8 @@ id: comp-soc-006-security-monitoring
 title: COMP-SOC-006 - Security Monitoring
 sidebar_label: COMP-SOC-006 Monitoring
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-006: Security Monitoring

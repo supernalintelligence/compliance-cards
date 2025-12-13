@@ -3,6 +3,8 @@ id: comp-hipaa-034-access-control-and-validation-procedures
 title: COMP-HIPAA-034 - Access Control and Validation Procedures
 sidebar_label: COMP-HIPAA-034
 sidebar_position: 34
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-034: Access Control and Validation Procedures

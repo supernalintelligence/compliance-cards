@@ -3,6 +3,8 @@ id: comp-iso-010-design-controls
 title: COMP-ISO-010 - Design Controls
 sidebar_label: COMP-ISO-010 Design Controls
 sidebar_position: 10
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-010: Design Controls

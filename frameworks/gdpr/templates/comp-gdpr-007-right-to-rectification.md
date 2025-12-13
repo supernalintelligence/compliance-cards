@@ -3,6 +3,8 @@ id: comp-gdpr-007-right-to-rectification
 title: COMP-GDPR-007 - Right to Rectification
 sidebar_label: COMP-GDPR-007 Rectification
 sidebar_position: 7
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-007: Right to Rectification

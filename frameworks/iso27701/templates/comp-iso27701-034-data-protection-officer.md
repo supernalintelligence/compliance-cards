@@ -3,6 +3,8 @@ id: comp-iso27701-034-data-protection-officer
 title: COMP-ISO27701-034 - Data Protection Officer
 sidebar_label: COMP-ISO27701-034
 sidebar_position: 34
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-034: Data Protection Officer

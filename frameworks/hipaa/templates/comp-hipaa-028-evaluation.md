@@ -3,6 +3,8 @@ id: comp-hipaa-028-evaluation
 title: COMP-HIPAA-028 - Evaluation
 sidebar_label: COMP-HIPAA-028
 sidebar_position: 28
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-028: Evaluation

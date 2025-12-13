@@ -3,6 +3,8 @@ id: comp-iso27001-036-compliance-with-policies-rules-and-standards
 title: COMP-ISO27001-036 - Compliance with Policies, Rules and Standards
 sidebar_label: COMP-ISO27001-036
 sidebar_position: 36
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-036: Compliance with Policies, Rules and Standards

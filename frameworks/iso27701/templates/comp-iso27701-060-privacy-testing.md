@@ -3,6 +3,8 @@ id: comp-iso27701-060-privacy-testing
 title: COMP-ISO27701-060 - Privacy Testing
 sidebar_label: COMP-ISO27701-060
 sidebar_position: 60
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-060: Privacy Testing

@@ -3,6 +3,8 @@ id: comp-iso27701-011-obligations-to-data-subjects-rectification
 title: COMP-ISO27701-011 - Obligations to Data Subjects - Rectification
 sidebar_label: COMP-ISO27701-011
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-011: Obligations to Data Subjects - Rectification

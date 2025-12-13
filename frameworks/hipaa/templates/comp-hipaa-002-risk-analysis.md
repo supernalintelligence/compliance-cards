@@ -3,6 +3,8 @@ id: comp-hipaa-002-risk-analysis
 title: COMP-HIPAA-002 - Risk Analysis
 sidebar_label: COMP-HIPAA-002
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-002: Risk Analysis

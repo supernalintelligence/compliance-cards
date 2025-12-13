@@ -3,6 +3,8 @@ id: comp-fda-014-authority-checks
 title: COMP-FDA-014 - Authority Checks
 sidebar_label: COMP-FDA-014 Authority
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-014: Authority Checks

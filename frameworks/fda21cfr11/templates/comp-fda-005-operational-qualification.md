@@ -3,6 +3,8 @@ id: comp-fda-005-operational-qualification
 title: COMP-FDA-005 - Operational Qualification
 sidebar_label: COMP-FDA-005 OQ
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-005: Operational Qualification

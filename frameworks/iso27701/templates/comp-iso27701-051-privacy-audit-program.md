@@ -3,6 +3,8 @@ id: comp-iso27701-051-privacy-audit-program
 title: COMP-ISO27701-051 - Privacy Audit Program
 sidebar_label: COMP-ISO27701-051
 sidebar_position: 51
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-051: Privacy Audit Program

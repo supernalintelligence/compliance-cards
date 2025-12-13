@@ -3,6 +3,8 @@ id: comp-iso-005-design-planning
 title: COMP-ISO-005 - Design Planning
 sidebar_label: COMP-ISO-005 Design Planning
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-005: Design Planning

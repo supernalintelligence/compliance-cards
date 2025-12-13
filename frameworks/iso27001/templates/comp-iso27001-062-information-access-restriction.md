@@ -3,6 +3,8 @@ id: comp-iso27001-062-information-access-restriction
 title: COMP-ISO27001-062 - Information Access Restriction
 sidebar_label: COMP-ISO27001-062
 sidebar_position: 62
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-062: Information Access Restriction

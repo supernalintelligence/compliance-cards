@@ -3,6 +3,8 @@ id: comp-hipaa-023-data-backup-plan
 title: COMP-HIPAA-023 - Data Backup Plan
 sidebar_label: COMP-HIPAA-023
 sidebar_position: 23
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-023: Data Backup Plan

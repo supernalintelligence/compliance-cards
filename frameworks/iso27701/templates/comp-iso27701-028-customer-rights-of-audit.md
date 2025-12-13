@@ -3,6 +3,8 @@ id: comp-iso27701-028-customer-rights-of-audit
 title: COMP-ISO27701-028 - Customer Rights of Audit
 sidebar_label: COMP-ISO27701-028
 sidebar_position: 28
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-028: Customer Rights of Audit

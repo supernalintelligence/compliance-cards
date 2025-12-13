@@ -3,6 +3,8 @@ id: comp-hipaa-042-data-backup-and-storage
 title: COMP-HIPAA-042 - Data Backup and Storage
 sidebar_label: COMP-HIPAA-042
 sidebar_position: 42
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-042: Data Backup and Storage

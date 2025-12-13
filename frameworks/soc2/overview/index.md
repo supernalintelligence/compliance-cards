@@ -207,8 +207,8 @@ All SOC 2 template requirements follow the standard See requirement template in 
 ## Related Documentation
 
 - [SOC 2 Template Requirements](../templates/index.md) - Complete list of template requirements
-- [Security Controls Implementation](../../../../requirements/compliance/processes/implementation/security-controls.md) - Technical implementation guide
-- [Incident Response Procedures](../../../../requirements/compliance/processes/implementation/incident-response.md) - Incident management guide
+- [Security Controls Implementation](../../../../../docs/requirements/compliance/processes/implementation/security-controls.md) - Technical implementation guide
+- [Incident Response Procedures](../../../../../docs/requirements/compliance/processes/implementation/incident-response.md) - Incident management guide
 
 ## Compliance Benefits
 

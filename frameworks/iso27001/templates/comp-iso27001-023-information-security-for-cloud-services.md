@@ -3,6 +3,8 @@ id: comp-iso27001-023-information-security-for-cloud-services
 title: COMP-ISO27001-023 - Information Security for Cloud Services
 sidebar_label: COMP-ISO27001-023
 sidebar_position: 23
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-023: Information Security for Cloud Services

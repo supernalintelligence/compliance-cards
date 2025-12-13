@@ -3,6 +3,8 @@ id: comp-hipaa-004-sanction-policy
 title: COMP-HIPAA-004 - Sanction Policy
 sidebar_label: COMP-HIPAA-004
 sidebar_position: 4
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-004: Sanction Policy

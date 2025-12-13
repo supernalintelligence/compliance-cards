@@ -3,6 +3,8 @@ id: comp-hipaa-030-written-contract-or-other-arrangement
 title: COMP-HIPAA-030 - Written Contract or Other Arrangement
 sidebar_label: COMP-HIPAA-030
 sidebar_position: 30
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-030: Written Contract or Other Arrangement

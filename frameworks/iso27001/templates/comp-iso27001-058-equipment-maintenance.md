@@ -3,6 +3,8 @@ id: comp-iso27001-058-equipment-maintenance
 title: COMP-ISO27001-058 - Equipment Maintenance
 sidebar_label: COMP-ISO27001-058
 sidebar_position: 58
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-058: Equipment Maintenance

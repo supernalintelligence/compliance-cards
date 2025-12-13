@@ -3,6 +3,8 @@ id: comp-gdpr-014-data-breach-response
 title: COMP-GDPR-014 - Data Breach Response
 sidebar_label: COMP-GDPR-014 Breach Response
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-014: Data Breach Response

@@ -3,6 +3,8 @@ id: comp-en18031-013-synthetic-data-generation
 title: COMP-EN18031-013 - Synthetic Data Generation
 sidebar_label: COMP-EN18031-013
 sidebar_position: 13
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-013: Synthetic Data Generation

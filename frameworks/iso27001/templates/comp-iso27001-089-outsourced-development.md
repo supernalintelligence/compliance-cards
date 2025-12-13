@@ -3,6 +3,8 @@ id: comp-iso27001-089-outsourced-development
 title: COMP-ISO27001-089 - Outsourced Development
 sidebar_label: COMP-ISO27001-089
 sidebar_position: 89
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-089: Outsourced Development

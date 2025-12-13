@@ -3,6 +3,8 @@ id: comp-iso-014-corrective-and-preventive-action
 title: COMP-ISO-014 - Corrective and Preventive Action
 sidebar_label: COMP-ISO-014 CAPA
 sidebar_position: 14
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-014: Corrective and Preventive Action (CAPA)

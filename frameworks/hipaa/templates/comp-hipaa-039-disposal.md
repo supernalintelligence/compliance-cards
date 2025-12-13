@@ -3,6 +3,8 @@ id: comp-hipaa-039-disposal
 title: COMP-HIPAA-039 - Disposal
 sidebar_label: COMP-HIPAA-039
 sidebar_position: 39
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-039: Disposal

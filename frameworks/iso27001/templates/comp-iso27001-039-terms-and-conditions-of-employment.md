@@ -3,6 +3,8 @@ id: comp-iso27001-039-terms-and-conditions-of-employment
 title: COMP-ISO27001-039 - Terms and Conditions of Employment
 sidebar_label: COMP-ISO27001-039
 sidebar_position: 39
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-039: Terms and Conditions of Employment

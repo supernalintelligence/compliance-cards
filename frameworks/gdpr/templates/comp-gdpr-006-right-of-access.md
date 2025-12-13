@@ -3,6 +3,8 @@ id: comp-gdpr-006-right-of-access
 title: COMP-GDPR-006 - Right of Access
 sidebar_label: COMP-GDPR-006 Right of Access
 sidebar_position: 6
+status: pending-verification
+references: []
 ---
 
 # COMP-GDPR-006: Right of Access

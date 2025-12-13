@@ -3,6 +3,8 @@ id: comp-iso27701-007-disposal
 title: COMP-ISO27701-007 - Disposal
 sidebar_label: COMP-ISO27701-007
 sidebar_position: 7
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-007: Disposal

@@ -3,6 +3,8 @@ id: comp-en18031-032-rate-limiting-abuse-prevention
 title: COMP-EN18031-032 - Rate Limiting & Abuse Prevention
 sidebar_label: COMP-EN18031-032
 sidebar_position: 32
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-032: Rate Limiting & Abuse Prevention

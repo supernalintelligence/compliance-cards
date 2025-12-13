@@ -3,6 +3,8 @@ id: comp-iso27001-038-screening
 title: COMP-ISO27001-038 - Screening
 sidebar_label: COMP-ISO27001-038
 sidebar_position: 38
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-038: Screening

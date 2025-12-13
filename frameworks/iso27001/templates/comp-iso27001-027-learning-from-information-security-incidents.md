@@ -3,6 +3,8 @@ id: comp-iso27001-027-learning-from-information-security-incidents
 title: COMP-ISO27001-027 - Learning from Information Security Incidents
 sidebar_label: COMP-ISO27001-027
 sidebar_position: 27
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-027: Learning from Information Security Incidents

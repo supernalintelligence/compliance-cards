@@ -3,6 +3,8 @@ id: comp-soc-001-access-control-policies
 title: COMP-SOC-001 - Access Control Policies
 sidebar_label: COMP-SOC-001 Access Control
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-SOC-001: Access Control Policies

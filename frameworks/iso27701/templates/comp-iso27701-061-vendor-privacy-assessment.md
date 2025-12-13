@@ -3,6 +3,8 @@ id: comp-iso27701-061-vendor-privacy-assessment
 title: COMP-ISO27701-061 - Vendor Privacy Assessment
 sidebar_label: COMP-ISO27701-061
 sidebar_position: 61
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-061: Vendor Privacy Assessment

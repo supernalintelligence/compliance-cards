@@ -3,6 +3,8 @@ id: comp-iso27001-069-information-deletion
 title: COMP-ISO27001-069 - Information Deletion
 sidebar_label: COMP-ISO27001-069
 sidebar_position: 69
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-069: Information Deletion

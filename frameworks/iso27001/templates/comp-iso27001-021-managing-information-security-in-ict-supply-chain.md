@@ -3,6 +3,8 @@ id: comp-iso27001-021-managing-information-security-in-ict-supply-chain
 title: COMP-ISO27001-021 - Managing Information Security in ICT Supply Chain
 sidebar_label: COMP-ISO27001-021
 sidebar_position: 21
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-021: Managing Information Security in ICT Supply Chain

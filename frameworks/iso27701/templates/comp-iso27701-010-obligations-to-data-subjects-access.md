@@ -3,6 +3,8 @@ id: comp-iso27701-010-obligations-to-data-subjects-access
 title: COMP-ISO27701-010 - Obligations to Data Subjects - Access
 sidebar_label: COMP-ISO27701-010
 sidebar_position: 10
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-010: Obligations to Data Subjects - Access

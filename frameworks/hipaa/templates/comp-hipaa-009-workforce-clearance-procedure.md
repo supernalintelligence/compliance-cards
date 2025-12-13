@@ -3,6 +3,8 @@ id: comp-hipaa-009-workforce-clearance-procedure
 title: COMP-HIPAA-009 - Workforce Clearance Procedure
 sidebar_label: COMP-HIPAA-009
 sidebar_position: 9
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-009: Workforce Clearance Procedure

@@ -3,6 +3,8 @@ id: comp-en18031-005-ai-documentation-standards
 title: COMP-EN18031-005 - AI Documentation Standards
 sidebar_label: COMP-EN18031-005
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-005: AI Documentation Standards

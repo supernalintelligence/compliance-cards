@@ -3,6 +3,8 @@ id: comp-iso27701-046-third-party-verification
 title: COMP-ISO27701-046 - Third Party Verification
 sidebar_label: COMP-ISO27701-046
 sidebar_position: 46
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-046: Third Party Verification

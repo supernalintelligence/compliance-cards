@@ -3,6 +3,8 @@ id: comp-hipaa-043-access-control
 title: COMP-HIPAA-043 - Access Control
 sidebar_label: COMP-HIPAA-043
 sidebar_position: 43
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-043: Access Control

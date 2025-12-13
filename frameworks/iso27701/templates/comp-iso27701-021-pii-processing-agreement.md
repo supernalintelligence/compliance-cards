@@ -3,6 +3,8 @@ id: comp-iso27701-021-pii-processing-agreement
 title: COMP-ISO27701-021 - PII Processing Agreement
 sidebar_label: COMP-ISO27701-021
 sidebar_position: 21
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-021: PII Processing Agreement

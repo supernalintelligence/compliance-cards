@@ -3,6 +3,8 @@ id: comp-hipaa-005-information-system-activity-review
 title: COMP-HIPAA-005 - Information System Activity Review
 sidebar_label: COMP-HIPAA-005
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-005: Information System Activity Review

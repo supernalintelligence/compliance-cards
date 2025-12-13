@@ -3,6 +3,8 @@ id: comp-en18031-035-fail-safe-mechanisms
 title: COMP-EN18031-035 - Fail-Safe Mechanisms
 sidebar_label: COMP-EN18031-035
 sidebar_position: 35
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-035: Fail-Safe Mechanisms

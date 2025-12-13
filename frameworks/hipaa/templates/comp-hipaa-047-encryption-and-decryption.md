@@ -3,6 +3,8 @@ id: comp-hipaa-047-encryption-and-decryption
 title: COMP-HIPAA-047 - Encryption and Decryption
 sidebar_label: COMP-HIPAA-047
 sidebar_position: 47
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-047: Encryption and Decryption

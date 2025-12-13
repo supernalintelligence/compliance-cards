@@ -3,6 +3,8 @@ id: comp-iso-011-purchasing-controls
 title: COMP-ISO-011 - Purchasing Controls
 sidebar_label: COMP-ISO-011 Purchasing
 sidebar_position: 11
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-011: Purchasing Controls

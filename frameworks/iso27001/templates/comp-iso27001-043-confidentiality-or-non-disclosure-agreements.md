@@ -3,6 +3,8 @@ id: comp-iso27001-043-confidentiality-or-non-disclosure-agreements
 title: COMP-ISO27001-043 - Confidentiality or Non-Disclosure Agreements
 sidebar_label: COMP-ISO27001-043
 sidebar_position: 43
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-043: Confidentiality or Non-Disclosure Agreements

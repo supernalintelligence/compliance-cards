@@ -3,6 +3,8 @@ id: comp-iso27701-053-pii-anonymization
 title: COMP-ISO27701-053 - PII Anonymization
 sidebar_label: COMP-ISO27701-053
 sidebar_position: 53
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-053: PII Anonymization

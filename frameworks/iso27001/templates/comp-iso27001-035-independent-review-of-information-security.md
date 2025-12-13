@@ -3,6 +3,8 @@ id: comp-iso27001-035-independent-review-of-information-security
 title: COMP-ISO27001-035 - Independent Review of Information Security
 sidebar_label: COMP-ISO27001-035
 sidebar_position: 35
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-035: Independent Review of Information Security

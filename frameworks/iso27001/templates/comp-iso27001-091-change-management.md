@@ -3,6 +3,8 @@ id: comp-iso27001-091-change-management
 title: COMP-ISO27001-091 - Change Management
 sidebar_label: COMP-ISO27001-091
 sidebar_position: 91
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-091: Change Management

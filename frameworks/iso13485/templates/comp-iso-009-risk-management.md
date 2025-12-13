@@ -3,6 +3,8 @@ id: comp-iso-009-risk-management
 title: COMP-ISO-009 - Risk Management
 sidebar_label: COMP-ISO-009 Risk Management
 sidebar_position: 9
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-009: Risk Management

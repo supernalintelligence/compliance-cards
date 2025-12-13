@@ -3,6 +3,8 @@ id: comp-iso-001-quality-management-system
 title: COMP-ISO-001 - Quality Management System
 sidebar_label: COMP-ISO-001 QMS
 sidebar_position: 2
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-001: Quality Management System

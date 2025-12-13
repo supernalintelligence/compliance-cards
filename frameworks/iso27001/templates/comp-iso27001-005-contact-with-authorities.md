@@ -3,6 +3,8 @@ id: comp-iso27001-005-contact-with-authorities
 title: COMP-ISO27001-005 - Contact with Authorities
 sidebar_label: COMP-ISO27001-005
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-005: Contact with Authorities

@@ -3,6 +3,8 @@ id: comp-hipaa-040-media-re-use
 title: COMP-HIPAA-040 - Media Re-use
 sidebar_label: COMP-HIPAA-040
 sidebar_position: 40
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-040: Media Re-use

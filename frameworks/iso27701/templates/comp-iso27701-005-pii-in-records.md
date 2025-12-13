@@ -3,6 +3,8 @@ id: comp-iso27701-005-pii-in-records
 title: COMP-ISO27701-005 - PII in Records
 sidebar_label: COMP-ISO27701-005
 sidebar_position: 5
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-005: PII in Records

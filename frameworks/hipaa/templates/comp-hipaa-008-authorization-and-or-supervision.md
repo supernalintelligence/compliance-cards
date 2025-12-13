@@ -3,6 +3,8 @@ id: comp-hipaa-008-authorization-and-or-supervision
 title: COMP-HIPAA-008 - Authorization and/or Supervision
 sidebar_label: COMP-HIPAA-008
 sidebar_position: 8
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-008: Authorization and/or Supervision

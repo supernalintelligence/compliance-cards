@@ -3,6 +3,8 @@ id: comp-hipaa-022-contingency-plan
 title: COMP-HIPAA-022 - Contingency Plan
 sidebar_label: COMP-HIPAA-022
 sidebar_position: 22
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-022: Contingency Plan

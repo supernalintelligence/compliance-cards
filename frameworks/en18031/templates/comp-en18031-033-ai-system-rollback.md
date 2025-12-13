@@ -3,6 +3,8 @@ id: comp-en18031-033-ai-system-rollback
 title: COMP-EN18031-033 - AI System Rollback
 sidebar_label: COMP-EN18031-033
 sidebar_position: 33
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-033: AI System Rollback

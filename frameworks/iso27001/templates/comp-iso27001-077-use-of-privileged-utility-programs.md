@@ -3,6 +3,8 @@ id: comp-iso27001-077-use-of-privileged-utility-programs
 title: COMP-ISO27001-077 - Use of Privileged Utility Programs
 sidebar_label: COMP-ISO27001-077
 sidebar_position: 77
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-077: Use of Privileged Utility Programs

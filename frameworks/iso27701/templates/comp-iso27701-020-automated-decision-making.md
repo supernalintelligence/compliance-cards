@@ -3,6 +3,8 @@ id: comp-iso27701-020-automated-decision-making
 title: COMP-ISO27701-020 - Automated Decision Making
 sidebar_label: COMP-ISO27701-020
 sidebar_position: 20
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-020: Automated Decision Making

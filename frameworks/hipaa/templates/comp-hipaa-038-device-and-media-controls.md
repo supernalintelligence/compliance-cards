@@ -3,6 +3,8 @@ id: comp-hipaa-038-device-and-media-controls
 title: COMP-HIPAA-038 - Device and Media Controls
 sidebar_label: COMP-HIPAA-038
 sidebar_position: 38
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-038: Device and Media Controls

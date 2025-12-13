@@ -3,6 +3,8 @@ id: comp-hipaa-048-audit-controls
 title: COMP-HIPAA-048 - Audit Controls
 sidebar_label: COMP-HIPAA-048
 sidebar_position: 48
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-048: Audit Controls

@@ -3,6 +3,8 @@ id: comp-iso-004-record-control-system
 title: COMP-ISO-004 - Record Control System
 sidebar_label: COMP-ISO-004 Record Control
 sidebar_position: 4
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO-004: Record Control System

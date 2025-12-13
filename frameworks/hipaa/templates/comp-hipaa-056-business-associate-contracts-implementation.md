@@ -3,6 +3,8 @@ id: comp-hipaa-056-business-associate-contracts-implementation
 title: COMP-HIPAA-056 - Business Associate Contracts - Implementation
 sidebar_label: COMP-HIPAA-056
 sidebar_position: 56
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-056: Business Associate Contracts - Implementation

@@ -3,6 +3,8 @@ id: comp-iso27001-079-networks-security
 title: COMP-ISO27001-079 - Networks Security
 sidebar_label: COMP-ISO27001-079
 sidebar_position: 79
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-079: Networks Security

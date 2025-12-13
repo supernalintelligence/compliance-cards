@@ -3,6 +3,8 @@ id: comp-fda-009-non-repudiation-controls
 title: COMP-FDA-009 - Non-Repudiation Controls
 sidebar_label: COMP-FDA-009 Non-Repudiation
 sidebar_position: 9
+status: pending-verification
+references: []
 ---
 
 # COMP-FDA-009: Non-Repudiation Controls

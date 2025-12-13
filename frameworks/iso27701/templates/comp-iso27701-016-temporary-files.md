@@ -3,6 +3,8 @@ id: comp-iso27701-016-temporary-files
 title: COMP-ISO27701-016 - Temporary Files
 sidebar_label: COMP-ISO27701-016
 sidebar_position: 16
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-016: Temporary Files

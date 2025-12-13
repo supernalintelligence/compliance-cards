@@ -3,6 +3,8 @@ id: comp-iso27701-023-disclosure-to-third-parties
 title: COMP-ISO27701-023 - Disclosure to Third Parties
 sidebar_label: COMP-ISO27701-023
 sidebar_position: 23
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-023: Disclosure to Third Parties

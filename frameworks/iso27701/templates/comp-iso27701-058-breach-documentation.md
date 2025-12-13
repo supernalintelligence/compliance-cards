@@ -3,6 +3,8 @@ id: comp-iso27701-058-breach-documentation
 title: COMP-ISO27701-058 - Breach Documentation
 sidebar_label: COMP-ISO27701-058
 sidebar_position: 58
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-058: Breach Documentation

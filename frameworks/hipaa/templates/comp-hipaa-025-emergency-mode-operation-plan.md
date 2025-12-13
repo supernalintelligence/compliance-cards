@@ -3,6 +3,8 @@ id: comp-hipaa-025-emergency-mode-operation-plan
 title: COMP-HIPAA-025 - Emergency Mode Operation Plan
 sidebar_label: COMP-HIPAA-025
 sidebar_position: 25
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-025: Emergency Mode Operation Plan

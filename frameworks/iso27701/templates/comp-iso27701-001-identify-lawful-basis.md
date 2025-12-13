@@ -3,6 +3,8 @@ id: comp-iso27701-001-identify-lawful-basis
 title: COMP-ISO27701-001 - Identify Lawful Basis
 sidebar_label: COMP-ISO27701-001
 sidebar_position: 1
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-001: Identify Lawful Basis

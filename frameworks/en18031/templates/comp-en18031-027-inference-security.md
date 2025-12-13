@@ -3,6 +3,8 @@ id: comp-en18031-027-inference-security
 title: COMP-EN18031-027 - Inference Security
 sidebar_label: COMP-EN18031-027
 sidebar_position: 27
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-027: Inference Security

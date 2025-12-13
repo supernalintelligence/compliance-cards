@@ -3,6 +3,8 @@ id: comp-iso27001-046-physical-security-perimeters
 title: COMP-ISO27001-046 - Physical Security Perimeters
 sidebar_label: COMP-ISO27001-046
 sidebar_position: 46
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-046: Physical Security Perimeters

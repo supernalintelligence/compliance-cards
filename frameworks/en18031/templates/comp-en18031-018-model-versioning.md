@@ -3,6 +3,8 @@ id: comp-en18031-018-model-versioning
 title: COMP-EN18031-018 - Model Versioning
 sidebar_label: COMP-EN18031-018
 sidebar_position: 18
+status: pending-verification
+references: []
 ---
 
 # COMP-EN18031-018: Model Versioning

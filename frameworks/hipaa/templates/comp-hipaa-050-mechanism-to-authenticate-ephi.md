@@ -3,6 +3,8 @@ id: comp-hipaa-050-mechanism-to-authenticate-ephi
 title: COMP-HIPAA-050 - Mechanism to Authenticate ePHI
 sidebar_label: COMP-HIPAA-050
 sidebar_position: 50
+status: pending-verification
+references: []
 ---
 
 # COMP-HIPAA-050: Mechanism to Authenticate ePHI

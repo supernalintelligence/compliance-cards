@@ -3,6 +3,8 @@ id: comp-iso27701-038-international-transfers-legal-basis
 title: COMP-ISO27701-038 - International Transfers - Legal Basis
 sidebar_label: COMP-ISO27701-038
 sidebar_position: 38
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-038: International Transfers - Legal Basis

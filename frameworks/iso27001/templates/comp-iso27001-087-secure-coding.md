@@ -3,6 +3,8 @@ id: comp-iso27001-087-secure-coding
 title: COMP-ISO27001-087 - Secure Coding
 sidebar_label: COMP-ISO27001-087
 sidebar_position: 87
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-087: Secure Coding

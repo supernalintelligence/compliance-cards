@@ -3,6 +3,8 @@ id: comp-iso27001-080-security-of-network-services
 title: COMP-ISO27001-080 - Security of Network Services
 sidebar_label: COMP-ISO27001-080
 sidebar_position: 80
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-080: Security of Network Services

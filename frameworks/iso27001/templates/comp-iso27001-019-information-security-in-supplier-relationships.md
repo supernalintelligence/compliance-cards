@@ -3,6 +3,8 @@ id: comp-iso27001-019-information-security-in-supplier-relationships
 title: COMP-ISO27001-019 - Information Security in Supplier Relationships
 sidebar_label: COMP-ISO27001-019
 sidebar_position: 19
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27001-019: Information Security in Supplier Relationships

@@ -3,6 +3,8 @@ id: comp-iso27701-017-retention-period-for-logs
 title: COMP-ISO27701-017 - Retention Period for Logs
 sidebar_label: COMP-ISO27701-017
 sidebar_position: 17
+status: pending-verification
+references: []
 ---
 
 # COMP-ISO27701-017: Retention Period for Logs
