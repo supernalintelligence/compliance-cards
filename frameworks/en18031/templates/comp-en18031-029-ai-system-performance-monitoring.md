@@ -1,8 +1,17 @@
 ---
 id: comp-en18031-029-ai-system-performance-monitoring
 title: COMP-EN18031-029 - AI System Performance Monitoring
+purpose: Monitor AI system performance metrics to ensure quality and detect degradation
+en18031Control: 6.4.4
+category: ai-deployment
+priority: high
+framework: EN 18031
 sidebar_label: COMP-EN18031-029
 sidebar_position: 29
+crossFramework:
+  iso42001: 9.1 (Monitoring and Measurement)
+  euAiAct: Article 72 (Post-Market Monitoring)
+  nistAiRmf: Measure 2.8
 status: pending-verification
 references: []
 ---
@@ -11,176 +20,205 @@ references: []
 
 ## Overview
 
-**Purpose**: Monitor AI system performance  
-**EN 18031 Control**: 5.4.4  
-**Category**: ai-operations  
+**Purpose**: Continuously monitor AI system performance to detect degradation, maintain quality, and trigger interventions  
+**EN 18031 Control**: 6.4.4 - AI System Performance Monitoring  
+**Category**: ai-deployment  
 **Priority**: high  
 **Framework**: EN 18031
 
 ## Description
 
-Implements EN 18031 control 5.4.4 to monitor ai system performance. This control ensures AI system trustworthiness, security, and compliance with emerging AI regulations.
+Comprehensive performance monitoring across: **Model Performance** (accuracy, precision, recall), **System Performance** (latency, throughput, availability), **Data Quality** (input distribution, completeness), **Business Metrics** (user satisfaction, conversion rate), **Fairness Metrics** (demographic parity, equal opportunity).
+
+**Key Actions**:
+- Establish baselines during deployment
+- Set thresholds for alerts (e.g., 5% accuracy drop)
+- Automated alerts and escalation
+- Root cause analysis workflows
+- Retraining/rollback procedures
 
 ## Acceptance Criteria
 
 ```gherkin
-Feature: AI System Performance Monitoring
-  As an AI system security officer
-  I want to implement ai system performance monitoring
-  So that I can meet EN 18031 5.4.4 requirements
+Feature: Model Performance Tracking
+  As a Data Scientist
+  I want to track model performance metrics
+  So that degradation is detected early
 
-  Background:
-    Given the organization develops or deploys AI systems
-    And EN 18031 compliance is required
-    And AI trustworthiness is being implemented
+  Scenario: Accuracy Monitoring
+    Given model is in production
+    When ground truth labels are available
+    Then accuracy shall be computed on recent predictions
+    And accuracy shall be compared to baseline
+    And accuracy drop >5% shall trigger alert
+    And accuracy trends shall be visualized
 
-  Scenario: AI Control Implementation
-    Given AI system requirements are identified
-    When control measures are implemented
-    And procedures are documented
-    And teams are trained
-    Then AI system shall be trustworthy
-    And control shall meet EN 18031 requirements
-    And evidence shall be documented
+  Scenario: Precision/Recall/F1 Monitoring
+    Given classification model is deployed
+    When detailed metrics are tracked
+    Then precision, recall, F1 per class shall be measured
+    And metrics shall be compared to baseline
+    And per-class degradation shall be detected
+    And imbalanced class issues shall be identified
 
-  Scenario: AI Control Verification
-    Given AI control is implemented
-    When control effectiveness is tested
-    And compliance is verified
-    And gaps are identified
-    Then control shall demonstrate effectiveness
-    And gaps shall be remediated
-    And verification shall be documented
+Feature: Latency and Throughput Monitoring
+  As an Operations Engineer
+  I want to monitor system performance
+  So that SLAs are met
+
+  Scenario: Latency Monitoring
+    Given inference requests are served
+    When latency is measured
+    Then p50, p95, p99 latency shall be tracked
+    And latency shall be compared to SLA (e.g., <100ms)
+    And SLA violations shall trigger alerts
+    And latency trends shall be visualized
+
+  Scenario: Throughput Monitoring
+    Given system handles requests
+    When throughput is measured
+    Then requests per second shall be tracked
+    And throughput shall meet capacity requirements
+    And throughput degradation shall be detected
+    And bottlenecks shall be identified
+
+Feature: Data Quality Monitoring
+  As a Data Engineer
+  I want to monitor input data quality
+  So that poor data doesn't degrade predictions
+
+  Scenario: Missing Value Monitoring
+    Given inputs may have missing values
+    When data quality is tracked
+    Then missing value rate shall be measured per feature
+    And baseline missing rate shall be established
+    And missing rate increase shall trigger alert
+    And affected predictions shall be flagged
+
+  Scenario: Distribution Shift Detection
+    Given input distribution may change
+    When distribution is monitored
+    Then feature distributions shall be compared to training data
+    And statistical tests (KS, Chi-square) shall detect drift
+    And drift severity shall be quantified
+    And significant drift shall trigger retraining
+
+Feature: Business Metric Monitoring
+  As a Product Manager
+  I want to track business impact
+  So that AI delivers value
+
+  Scenario: User Satisfaction Tracking
+    Given users interact with AI
+    When satisfaction is measured
+    Then user feedback/ratings shall be collected
+    And satisfaction scores shall be tracked
+    And satisfaction decline shall trigger investigation
+    And satisfaction correlated with model performance
+
+  Scenario: Conversion Rate Monitoring
+    Given AI impacts business outcomes
+    When business metrics are tracked
+    Then conversion rates shall be measured
+    And conversion rates compared to baseline
+    And AI attribution to conversions shall be estimated
+    And business value of AI shall be quantified
+
+Feature: Fairness Metric Monitoring
+  As an AI Ethics Officer
+  I want to monitor fairness
+  So that bias doesn't emerge in production
+
+  Scenario: Demographic Parity Monitoring
+    Given protected attributes are tracked
+    When fairness is monitored
+    Then prediction rates across groups shall be measured
+    And demographic parity shall be computed
+    And fairness violations shall trigger alerts
+    And bias mitigation shall be initiated
+
+Feature: Alert Configuration and Response
+  As an MLOps Engineer
+  I want automated alerting
+  So that issues are addressed quickly
+
+  Scenario: Alert Thresholds
+    Given monitoring is operational
+    When alerts are configured
+    Then thresholds shall be defined per metric
+    And severity levels (Critical, High, Medium) shall be assigned
+    And alert escalation paths shall be defined
+    And alert fatigue shall be avoided (tune thresholds)
+
+  Scenario: Automated Response Actions
+    Given performance issue is detected
+    When automated response is triggered
+    Then degradation shall trigger investigation workflow
+    And critical issues shall trigger rollback
+    And persistent issues shall trigger retraining
+    And response actions shall be logged
+
+Scenario: Compliance Verification
+    Given EN 18031 requires performance monitoring
+    When compliance audit is performed
+    Then all key metrics shall be tracked
+    And baselines shall be established
+    And alerts shall be configured
+    And response procedures shall be documented
+    And compliance with EN 18031 6.4.4 shall be verified
 ```
 
 ## Technical Context
 
-### Implementation Requirements
+### Monitoring Stack
 
-- Implement AI-specific technical and organizational measures
-- Document AI system procedures and decisions
-- Integrate with MLOps pipelines
-- Train ML engineers and data scientists
-- Monitor AI system behavior
-- Review and update with model changes
+```
+Production AI System
+       │
+       ▼
+Metrics Collection (Prometheus, Datadog)
+       │
+       ▼
+ML Monitoring Platform (Evidently, Arize, WhyLabs)
+       │
+       ▼
+Dashboards (Grafana, Custom)
+       │
+       ▼
+Alerting (PagerDuty, Slack)
+```
 
-### AI System Protection
+## Implementation Requirements
 
-This control addresses AI-specific risks including adversarial attacks, data poisoning, model drift, bias, and safety concerns.
+**Metrics**: Accuracy, latency, throughput, data quality, fairness  
+**Tools**: Prometheus/Grafana, Evidently AI, Arize, WhyLabs  
+**Alerting**: PagerDuty, Opsgenie, Slack  
+**Response**: Automated workflows, runbooks
 
 ## Validation Strategy
 
-### Testing Approach
-
-1. **AI Documentation Review**: Verify AI procedures are documented
-2. **Model Security Testing**: Confirm AI security controls are in place
-3. **Team Verification**: Check AI-specific training and awareness
-4. **Effectiveness Assessment**: Test AI control operation
-5. **Compliance Verification**: Audit against EN 18031 requirements
-
-### AI-Specific Testing
-
-- Adversarial robustness testing
-- Fairness and bias evaluation
-- Explainability validation
-- Safety testing under edge cases
-- Performance degradation monitoring
+- Verify all metrics are collected
+- Test alert triggers
+- Validate response procedures
+- Measure time-to-detection
 
 ## Evidence Requirements
 
-### Required Documentation
-
-- AI governance policies
-- Model development documentation
-- Training data provenance
-- Model validation reports
-- AI system monitoring logs
-- Incident response records
-- Audit trail of AI decisions
-
-### Evidence Collection
-
-- Maintain AI documentation in version control
-- Store model artifacts and metadata
-- Track training data lineage
-- Document model validation results
-- Archive AI system logs (inference, monitoring, incidents)
-- Collect fairness and bias metrics
+- Performance dashboards
+- Alert configurations
+- Alert history
+- Response action logs
 
 ## Related Controls
 
-### Within EN 18031
-
-- Related AI trustworthiness controls will be identified during implementation
-
-### Cross-Framework
-
-- comp-iso27001-XXX: ISO 27001 information security controls
-- comp-iso27701-XXX: ISO 27701 privacy controls (for AI using PII)
-- comp-gdpr-XXX: GDPR requirements (AI automated decision-making)
-
-### AI-Specific Standards
-
-- ISO/IEC 42001: AI Management System
-- NIST AI Risk Management Framework
-- EU AI Act requirements
-- IEEE 7000 series (AI ethics)
-
-## Implementation Notes
-
-### Best Practices
-
-- Integrate AI security into MLOps pipelines
-- Use AI-specific security tooling (e.g., Adversarial Robustness Toolbox)
-- Implement continuous monitoring for model drift and bias
-- Maintain comprehensive model cards and datasheets
-- Conduct regular AI system audits
-- Establish human-in-the-loop for high-risk decisions
-
-### Common Pitfalls
-
-- Treating AI security as traditional software security
-- Insufficient training data documentation
-- Lack of model explainability
-- Missing adversarial testing
-- Inadequate monitoring for model drift
-- Poor stakeholder communication about AI risks
-
-### ML/AI Tooling
-
-**Model Security**:
-
-- Adversarial Robustness Toolbox (ART)
-- CleverHans
-- Foolbox
-
-**Fairness & Bias**:
-
-- Fairlearn
-- AI Fairness 360
-- What-If Tool
-
-**Explainability**:
-
-- SHAP
-- LIME
-- InterpretML
-
-**MLOps & Monitoring**:
-
-- MLflow
-- Weights & Biases
-- Neptune.ai
-- Evidently AI
+- **comp-en18031-023-model-drift-detection**
+- **comp-en18031-026-ai-system-monitoring**
 
 ## Status
 
-- [ ] AI governance framework established
-- [ ] AI risk assessment conducted
-- [ ] Control requirements analyzed
-- [ ] Implementation plan created
-- [ ] Technical controls deployed
-- [ ] Procedures documented
-- [ ] Teams trained on AI security
-- [ ] Control effectiveness verified
-- [ ] Evidence collected
+- [ ] Performance metrics defined
+- [ ] Baselines established
+- [ ] Monitoring implemented
+- [ ] Alerts configured
+- [ ] Response procedures defined
+- [ ] Compliance with EN 18031 6.4.4 verified
