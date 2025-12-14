@@ -1,55 +1,9 @@
 {
-  "date": "2025-12-14T07:37:10.103Z",
-  "frameworks": {
-    "en18031": {
-      "boilerplateCount": 4,
-      "files": [
-        {
-          "file": "comp-en18031-011-data-provenance.md",
-          "id": "comp-en18031-011-data-provenance",
-          "title": "COMP-EN18031-011 - Data Provenance",
-          "boilerplateScore": 4,
-          "hasGenericScenarios": true,
-          "uniqueLines": 42,
-          "lineCount": 130,
-          "purpose": "N/A"
-        },
-        {
-          "file": "comp-en18031-031-output-validation.md",
-          "id": "comp-en18031-031-output-validation",
-          "title": "COMP-EN18031-031 - Output Validation",
-          "boilerplateScore": 4,
-          "hasGenericScenarios": true,
-          "uniqueLines": 42,
-          "lineCount": 130,
-          "purpose": "N/A"
-        },
-        {
-          "file": "comp-en18031-032-rate-limiting-abuse-prevention.md",
-          "id": "comp-en18031-032-rate-limiting-abuse-prevention",
-          "title": "COMP-EN18031-032 - Rate Limiting & Abuse Prevention",
-          "boilerplateScore": 4,
-          "hasGenericScenarios": true,
-          "uniqueLines": 42,
-          "lineCount": 130,
-          "purpose": "N/A"
-        },
-        {
-          "file": "comp-en18031-033-ai-system-rollback.md",
-          "id": "comp-en18031-033-ai-system-rollback",
-          "title": "COMP-EN18031-033 - AI System Rollback",
-          "boilerplateScore": 4,
-          "hasGenericScenarios": true,
-          "uniqueLines": 42,
-          "lineCount": 130,
-          "purpose": "N/A"
-        }
-      ]
-    }
-  },
+  "date": "2025-12-14T08:56:53.385Z",
+  "frameworks": {},
   "summary": {
     "totalFrameworks": 11,
-    "frameworksWithBoilerplate": 1,
-    "totalBoilerplateFiles": 4
+    "frameworksWithBoilerplate": 0,
+    "totalBoilerplateFiles": 0
   }
 }
