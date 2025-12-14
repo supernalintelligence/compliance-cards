@@ -1,0 +1,10 @@
+# Ignore all PDFs and OCR text files (licensed content)
+*.pdf
+*.txt
+*.ocr
+
+# Keep metadata files
+!metadata.json
+!registry.yaml
+!README.md
+

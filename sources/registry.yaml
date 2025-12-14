@@ -1,0 +1,38 @@
+---
+# Compliance Source Registry
+# Tracks all regulatory PDF sources and their OCR status
+
+sources:
+  iso14971:
+    framework: iso14971
+    title: "ISO 14971:2019 - Medical Devices Risk Management"
+    file: iso14971/ISO-14971-2019.pdf
+    size_mb: 1.5
+    added_date: 2025-12-13
+    ocr_status: pending
+    ocr_confidence: null
+    ocr_date: null
+    page_count: null
+    cards_count: 0
+    notes: "Risk management for medical devices"
+
+  iso23053:
+    framework: iso23053
+    title: "ISO 23053"
+    file: iso23053/ISO-23053.pdf
+    size_mb: 4.4
+    added_date: 2025-12-13
+    ocr_status: pending
+    ocr_confidence: null
+    ocr_date: null
+    page_count: null
+    cards_count: 0
+    notes: "To be researched - framework unknown"
+
+# OCR Status values:
+# - pending: Not yet OCR'd
+# - processing: OCR in progress
+# - complete: OCR complete (confidence >85%)
+# - low_quality: OCR complete but confidence <85%
+# - failed: OCR failed (manual review needed)
+
