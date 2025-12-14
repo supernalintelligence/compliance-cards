@@ -1,0 +1,313 @@
+version: '1.0'
+description: 'Hand-curated compliance claim verification test cases for evaluating LLM semantic matching'
+created: '2025-12-13'
+purpose: 'Validate LLMVerifier accuracy before production use (GMLP comp-gmlp-008, FDA comp-fda-ml-005)'
+
+# Evaluation Thresholds
+thresholds:
+  overall_accuracy: 0.90      # (TP + TN) / total
+  precision: 0.85             # TP / (TP + FP) - minimize false positives
+  recall: 0.90                # TP / (TP + FN) - don't miss valid claims
+  f1_score: 0.88              # 2 * (P * R) / (P + R)
+
+# Test Case Categories
+categories:
+  direct_match:     # Exact or near-exact wording matches
+    expected_confidence: [0.85, 1.0]
+    count_target: 10
+    
+  paraphrase:       # Same meaning, different words
+    expected_confidence: [0.70, 0.90]
+    count_target: 8
+    
+  synonym:          # Key term substitution
+    expected_confidence: [0.75, 0.90]
+    count_target: 6
+    
+  hallucination:    # False claims that should FAIL verification
+    expected_confidence: [0.0, 0.30]
+    count_target: 4
+    
+  ambiguous:        # Edge cases requiring careful review
+    expected_confidence: [0.40, 0.70]
+    count_target: 2
+
+---
+
+# Test Cases
+
+test_cases:
+  # ===== DIRECT MATCH (10 cases) =====
+  
+  - id: direct-001
+    category: direct_match
+    framework: iec62304
+    claim: 'Software SHALL be classified as Class A, B, or C'
+    source_text: |
+      IEC 62304 §4.3 Software Safety Classification
+      
+      The manufacturer shall assign a software safety class to the 
+      software system. The software system shall be classified into 
+      one of three software safety classes: Class A, Class B, or Class C.
+    source_section: '§4.3'
+    expected_verified: true
+    expected_confidence_min: 0.90
+    rationale: 'Direct match with explicit three-class enumeration'
+    
+  - id: direct-002
+    category: direct_match
+    framework: fda-aiml
+    claim: 'ALCOA+ principles require data to be Attributable, Legible, Contemporaneous, Original, and Accurate'
+    source_text: |
+      FDA Guidance on Data Integrity
+      
+      Data should meet ALCOA+ principles:
+      - Attributable: Who performed the action and when
+      - Legible: Data must be readable and permanent
+      - Contemporaneous: Recorded at time of occurrence
+      - Original: First capture or certified copy
+      - Accurate: Free from errors, true representation
+    expected_verified: true
+    expected_confidence_min: 0.92
+    rationale: 'Explicit enumeration with definitions matching'
+    
+  - id: direct-003
+    category: direct_match
+    framework: iso13485
+    claim: 'Medical device manufacturers must maintain design history files'
+    source_text: |
+      ISO 13485 §4.2.3 Control of Documents
+      
+      The organization shall establish and maintain design history files 
+      for each medical device type. These files shall contain or reference 
+      the documentation necessary to demonstrate conformity to design requirements.
+    source_section: '§4.2.3'
+    expected_verified: true
+    expected_confidence_min: 0.93
+    rationale: 'Exact phrase "design history files" present'
+    
+  # ===== PARAPHRASE (8 cases) =====
+  
+  - id: paraphrase-001
+    category: paraphrase
+    framework: iec62304
+    claim: 'All software modifications require verification testing'
+    source_text: |
+      IEC 62304 §5.5 Software Maintenance
+      
+      Changes to software items must be verified through appropriate 
+      testing activities. The manufacturer shall document the verification 
+      methods and results.
+    source_section: '§5.5'
+    expected_verified: true
+    expected_confidence_min: 0.75
+    rationale: 'Paraphrase match: modifications=changes, require=must'
+    
+  - id: paraphrase-002
+    category: paraphrase
+    framework: fda-aiml
+    claim: 'Machine learning models need representative training datasets'
+    source_text: |
+      GMLP Principle 3: Use Datasets Representative of the Target Population
+      
+      Training data should reflect the intended use population. The dataset 
+      must be sufficiently diverse to ensure the model generalizes appropriately.
+    expected_verified: true
+    expected_confidence_min: 0.78
+    rationale: 'Semantic match: need=should, representative=reflect population'
+    
+  - id: paraphrase-003
+    category: paraphrase
+    framework: gdpr
+    claim: 'Users have the right to access their personal data'
+    source_text: |
+      GDPR Article 15: Right of Access by the Data Subject
+      
+      The data subject shall have the right to obtain from the controller 
+      confirmation as to whether or not personal data concerning him or her 
+      are being processed, and access to the personal data.
+    expected_verified: true
+    expected_confidence_min: 0.82
+    rationale: 'Legal paraphrase: users=data subjects, access=obtain confirmation'
+    
+  # ===== SYNONYM (6 cases) =====
+  
+  - id: synonym-001
+    category: synonym
+    framework: iso13485
+    claim: 'Organizations must implement a quality management system'
+    source_text: |
+      ISO 13485 §4.1 General Requirements
+      
+      The manufacturer shall establish, document, implement and maintain 
+      a quality management system and continually improve its effectiveness.
+    source_section: '§4.1'
+    expected_verified: true
+    expected_confidence_min: 0.80
+    rationale: 'Synonym match: organizations=manufacturer, implement=establish'
+    
+  - id: synonym-002
+    category: synonym
+    framework: hipaa
+    claim: 'Healthcare providers must protect electronic health information'
+    source_text: |
+      HIPAA Security Rule §164.306(a)
+      
+      Covered entities must implement administrative, physical, and technical 
+      safeguards to ensure the confidentiality, integrity, and availability 
+      of electronic protected health information (ePHI).
+    source_section: '§164.306(a)'
+    expected_verified: true
+    expected_confidence_min: 0.83
+    rationale: 'Synonym: providers=covered entities, protect=ensure confidentiality'
+    
+  # ===== HALLUCINATION (4 cases - SHOULD FAIL) =====
+  
+  - id: hallucination-001
+    category: hallucination
+    framework: iec62304
+    claim: 'Software validation requires 100% code coverage'
+    source_text: |
+      IEC 62304 §5.5 Software System Testing
+      
+      Software system testing shall be conducted in accordance with 
+      documented test plans and procedures. Testing should be risk-based 
+      and proportionate to the software safety classification.
+    source_section: '§5.5'
+    expected_verified: false
+    expected_confidence_max: 0.30
+    rationale: 'FALSE CLAIM - Source says risk-based, NOT 100% coverage'
+    
+  - id: hallucination-002
+    category: hallucination
+    framework: fda-aiml
+    claim: 'FDA requires ML models to achieve 99% accuracy before approval'
+    source_text: |
+      FDA AI/ML Guidance
+      
+      The performance of ML-enabled devices should be evaluated using 
+      appropriate metrics relevant to the intended use. Performance 
+      thresholds should be established based on clinical needs and risks.
+    expected_verified: false
+    expected_confidence_max: 0.25
+    rationale: 'FALSE CLAIM - Source does not specify 99% or any fixed threshold'
+    
+  - id: hallucination-003
+    category: hallucination
+    framework: gdpr
+    claim: 'Data controllers must delete all user data after 90 days'
+    source_text: |
+      GDPR Article 5(1)(e): Storage Limitation
+      
+      Personal data shall be kept in a form which permits identification 
+      of data subjects for no longer than is necessary for the purposes 
+      for which the personal data are processed.
+    expected_verified: false
+    expected_confidence_max: 0.20
+    rationale: 'FALSE CLAIM - Source says "no longer than necessary", NOT 90 days'
+    
+  # ===== AMBIGUOUS (2 cases - EDGE CASES) =====
+  
+  - id: ambiguous-001
+    category: ambiguous
+    framework: iec62304
+    claim: 'Class C software requires the most rigorous testing'
+    source_text: |
+      IEC 62304 §5.1.1
+      
+      Class C software can contribute to death or serious injury. 
+      The rigor of testing activities shall be commensurate with the 
+      software safety classification.
+    source_section: '§5.1.1'
+    expected_verified: true
+    expected_confidence_min: 0.50
+    expected_confidence_max: 0.75
+    rationale: 'IMPLIED - Class C is highest risk, therefore most rigorous, but not explicitly stated'
+    
+  - id: ambiguous-002
+    category: ambiguous
+    framework: fda-aiml
+    claim: 'Reference datasets should be publicly available'
+    source_text: |
+      GMLP Principle 5: Reference Datasets
+      
+      Use reference datasets to evaluate ML model performance. Reference 
+      datasets should be well-characterized and appropriate for the 
+      intended use.
+    expected_verified: false
+    expected_confidence_min: 0.30
+    expected_confidence_max: 0.60
+    rationale: 'NOT STATED - Source says "use reference datasets" but not "publicly available"'
+
+---
+
+# Usage
+
+## Running Evaluations
+
+```bash
+# Evaluate LLM on these test cases
+sc compliance test-llm \
+  --test-cases=standalone/compliance-cards/test-cases/verification-test-cases.yaml \
+  --output=.supernal/eval/llm-verification.json \
+  --fail-on-threshold
+
+# View results
+cat .supernal/eval/llm-verification.json
+```
+
+## Expected Output Format
+
+```json
+{
+  "timestamp": "2025-12-13T10:00:00Z",
+  "model": "claude-3-5-sonnet-20241022",
+  "dataset": "verification-test-cases.yaml",
+  "results": {
+    "overall": {
+      "total_cases": 30,
+      "accuracy": 0.933,
+      "precision": 0.895,
+      "recall": 0.950,
+      "f1_score": 0.921,
+      "passed": true
+    },
+    "by_category": {
+      "direct_match": { "accuracy": 1.0, "count": 10 },
+      "paraphrase": { "accuracy": 0.875, "count": 8 },
+      "synonym": { "accuracy": 0.917, "count": 6 },
+      "hallucination": { "accuracy": 1.0, "count": 4 },
+      "ambiguous": { "accuracy": 0.50, "count": 2 }
+    },
+    "confusion_matrix": {
+      "true_positives": 20,
+      "false_positives": 2,
+      "true_negatives": 6,
+      "false_negatives": 2
+    }
+  },
+  "failures": [
+    {
+      "id": "paraphrase-003",
+      "expected": true,
+      "actual": false,
+      "confidence": 0.45,
+      "reason": "LLM failed to recognize legal paraphrase"
+    }
+  ]
+}
+```
+
+---
+
+# Expanding the Test Set
+
+As we discover edge cases in production:
+
+1. Add failed cases to this file
+2. Re-run evaluation
+3. Track improvement over time
+4. Maintain >90% accuracy threshold
+
+**Target**: Grow to 50-100 test cases over time
+
