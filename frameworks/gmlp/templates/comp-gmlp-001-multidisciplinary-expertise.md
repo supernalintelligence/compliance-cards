@@ -282,3 +282,4 @@ multi_disciplinary_team:
 - **Priority:** HIGH - Foundational to entire GMLP framework
 - **Implementation Note:** Multi-disciplinary collaboration is not optional; it is a regulatory expectation
 
+

@@ -285,3 +285,4 @@ This framework includes **10 compliance cards**, each addressing one GMLP princi
 - [EN 18031 Framework Overview](./en18031/overview/index.md)
 - [Compliance Card Index](../../COMPLIANCE_INDEX.md)
 
+

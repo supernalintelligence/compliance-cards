@@ -289,3 +289,4 @@ software_engineering_practices:
 - **Priority:** HIGH - Software quality and security are critical to device safety
 - **Implementation Note:** Good software engineering is not negotiable for medical devices
 
+
