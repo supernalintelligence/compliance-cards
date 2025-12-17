@@ -178,3 +178,4 @@
 - **Integration:** GMLP principles are foundational; FDA AI/ML cards provide detailed implementation guidance
 
 
+

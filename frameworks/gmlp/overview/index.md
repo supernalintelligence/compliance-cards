@@ -286,3 +286,4 @@ This framework includes **10 compliance cards**, each addressing one GMLP princi
 - [Compliance Card Index](../../COMPLIANCE_INDEX.md)
 
 
+
