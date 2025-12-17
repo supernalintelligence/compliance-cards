@@ -1,3 +1,10 @@
+---
+title: Authoritative Sources for Compliance Cards
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # Authoritative Sources for Compliance Cards
 
 **Purpose**: This document tracks primary sources used to create compliance cards, ensuring accuracy and reducing hallucination risk.

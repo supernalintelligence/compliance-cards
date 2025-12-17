@@ -1,3 +1,10 @@
+---
+title: Compliance Cards Repository Sync Survey
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # Compliance Cards Repository Sync Survey
 
 **Date**: 2025-12-13  

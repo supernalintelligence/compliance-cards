@@ -1,3 +1,10 @@
+---
+title: ISO/IEC 27001:2022 Information Security Management System
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # ISO/IEC 27001:2022 Information Security Management System
 
 ## Overview

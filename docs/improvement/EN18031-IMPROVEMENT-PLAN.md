@@ -1,3 +1,10 @@
+---
+title: EN 18031 Compliance Cards Improvement Plan
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # EN 18031 Compliance Cards Improvement Plan
 
 ## Problem Statement

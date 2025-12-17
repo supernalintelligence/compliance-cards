@@ -1,3 +1,10 @@
+---
+title: FDA AI/ML Medical Device Guidance - Compliance Framework
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # FDA AI/ML Medical Device Guidance - Compliance Framework
 
 ## Overview

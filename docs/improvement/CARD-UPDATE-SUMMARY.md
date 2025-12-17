@@ -1,3 +1,10 @@
+---
+title: Compliance Card Update Summary
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # Compliance Card Update Summary
 
 **Date**: 2025-12-13  

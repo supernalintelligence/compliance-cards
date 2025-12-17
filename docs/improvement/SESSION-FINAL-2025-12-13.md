@@ -1,3 +1,10 @@
+---
+title: EN18031 Compliance Cards - Final Session Report
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # EN18031 Compliance Cards - Final Session Report
 
 **Date**: 2025-12-13  

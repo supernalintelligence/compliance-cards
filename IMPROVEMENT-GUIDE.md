@@ -1,3 +1,10 @@
+---
+title: Compliance Cards Improvement Guide
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # Compliance Cards Improvement Guide
 
 ## Quick Start

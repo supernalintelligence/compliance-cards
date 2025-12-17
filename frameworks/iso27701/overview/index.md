@@ -1,3 +1,10 @@
+---
+title: ISO/IEC 27701:2019 Privacy Information Management System
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # ISO/IEC 27701:2019 Privacy Information Management System
 
 ## Overview

@@ -1,3 +1,10 @@
+---
+title: Compliance Cards Template Quality Audit - 2025-12-13
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # Compliance Cards Template Quality Audit - 2025-12-13
 
 ## Executive Summary

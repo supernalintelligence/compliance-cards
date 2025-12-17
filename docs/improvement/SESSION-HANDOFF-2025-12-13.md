@@ -1,3 +1,10 @@
+---
+title: EN18031 Compliance Cards - Progress Handoff
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # EN18031 Compliance Cards - Progress Handoff
 
 **Date**: 2025-12-13  

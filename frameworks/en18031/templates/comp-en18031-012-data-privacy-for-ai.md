@@ -1,3 +1,10 @@
+---
+title: COMP-EN18031-012: Data Privacy for AI
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # COMP-EN18031-012: Data Privacy for AI
 
 ---

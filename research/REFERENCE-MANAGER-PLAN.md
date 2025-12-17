@@ -1,3 +1,10 @@
+---
+title: Reference Manager System - Design Plan
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # Reference Manager System - Design Plan
 
 **Date**: 2025-12-13  

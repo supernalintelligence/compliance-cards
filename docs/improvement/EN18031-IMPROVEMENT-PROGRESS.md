@@ -1,3 +1,10 @@
+---
+title: EN 18031 Improvement Progress
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # EN 18031 Improvement Progress
 
 **Last Updated**: 2025-12-13  

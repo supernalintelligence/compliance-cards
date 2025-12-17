@@ -1,3 +1,10 @@
+---
+title: STOP: Source Verification Required
+type: documentation
+created: 2025-12-17
+updated: 2025-12-17
+---
+
 # STOP: Source Verification Required
 
 **Date**: 2025-12-13  
