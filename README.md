@@ -225,9 +225,9 @@ Validate a card against the schema.
 
 ## License
 
-MIT © [Supernal AI](https://supernal.ai)
+MIT © [Supernal Intelligence](https://supernal.ai)
 
 ---
 
-**Built by [Supernal AI](https://supernal.ai)** — AI-powered development workflows for regulated industries.
+**Built by [Supernal Intelligence](https://supernal.ai)** — AI-powered development workflows for regulated industries.
 
