@@ -34,7 +34,7 @@ A["🎯 sc init --framework=soc2<br/>Initialize project with SOC 2 templates"] -
 
     F --> N["📝 REQ-SOC-012: Encryption<br/>Data encryption controls"]
 
-    G --> O["✅ sc req validate REQ-SOC-001<br/>Automated compliance checking"]
+    G --> O["✅ sc planning req validate REQ-SOC-001<br/>Automated compliance checking"]
     H --> O
     I --> O
     J --> O
@@ -45,7 +45,7 @@ A["🎯 sc init --framework=soc2<br/>Initialize project with SOC 2 templates"] -
 
     O --> P{"🏆 All SOC 2 Templates Validated?"}
 
-    P -->|"❌ Gaps Found"| Q["🔧 sc req update REQ-SOC-XXX<br/>Address compliance gaps"]
+    P -->|"❌ Gaps Found"| Q["🔧 sc planning req update REQ-SOC-XXX<br/>Address compliance gaps"]
     Q --> O
 
     P -->|"✅ Compliant"| R["🎉 SOC 2 Ready<br/>All requirements implemented"]
@@ -125,16 +125,16 @@ Get started with SOC 2 compliance quickly:
 sc init --framework=soc2 --name="Security Controls System"
 
 # Generate initial requirements
-sc req generate --framework=soc2 --category=security-controls
+sc planning req generate --framework=soc2 --category=security-controls
 ```
 
 ### 2. Set Up Security Controls
 
 ```bash
 # Create core SOC 2 requirements
-sc req new "Access Control Implementation" --framework=soc2 --priority=high
-sc req new "System Monitoring Setup" --framework=soc2 --priority=high
-sc req new "Change Management Process" --framework=soc2 --priority=medium
+sc planning req new "Access Control Implementation" --framework=soc2 --priority=high
+sc planning req new "System Monitoring Setup" --framework=soc2 --priority=high
+sc planning req new "Change Management Process" --framework=soc2 --priority=medium
 ```
 
 ### 3. Validate Controls
@@ -151,7 +151,7 @@ sc compliance report --framework=soc2 --type=type2 --format=pdf
 
 ```bash
 # View requirement status
-sc req list --framework=soc2 --status=pending
+sc planning req list --framework=soc2 --status=pending
 
 # Track compliance score
 sc compliance score --framework=soc2
@@ -169,7 +169,7 @@ sc init --framework=soc2
 sc soc2 configure --criteria=security,availability,processing-integrity
 
 # Validate all SOC 2 requirements
-sc req validate --framework=soc2
+sc planning req validate --framework=soc2
 
 # Generate SOC 2 readiness assessment
 sc compliance assessment --framework=soc2 --type=readiness

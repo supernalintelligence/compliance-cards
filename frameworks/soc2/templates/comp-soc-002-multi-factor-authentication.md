@@ -197,10 +197,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-SOC-002 --title="Multi-Factor Authentication"
+sc planning req new --template=REQ-SOC-002 --title="Multi-Factor Authentication"
 
 # Validate MFA implementation
-sc req validate REQ-SOC-002 --framework=soc2
+sc planning req validate REQ-SOC-002 --framework=soc2
 
 # Test MFA system effectiveness
 sc soc2 test-mfa --requirement=REQ-SOC-002 --comprehensive

@@ -32,7 +32,7 @@ A["🎯 sc init --framework=fda21cfr11<br/>Initialize project with FDA templates
     F --> L["📝 REQ-FDA-010: Tamper Evidence<br/>Audit record protection"]
     F --> M["📝 REQ-FDA-011: Record Retention<br/>Archival and retrieval"]
 
-    G --> N["✅ sc req validate REQ-FDA-001<br/>Automated compliance checking"]
+    G --> N["✅ sc planning req validate REQ-FDA-001<br/>Automated compliance checking"]
     H --> N
     I --> N
     J --> N
@@ -42,7 +42,7 @@ A["🎯 sc init --framework=fda21cfr11<br/>Initialize project with FDA templates
 
     N --> O{"🏆 All FDA Templates Validated?"}
 
-    O -->|"❌ Gaps Found"| P["🔧 sc req update REQ-FDA-XXX<br/>Address compliance gaps"]
+    O -->|"❌ Gaps Found"| P["🔧 sc planning req update REQ-FDA-XXX<br/>Address compliance gaps"]
     P --> N
 
     O -->|"✅ Compliant"| Q["🎉 FDA 21 CFR Part 11 Ready<br/>All requirements implemented"]
@@ -105,16 +105,16 @@ Get started with FDA 21 CFR Part 11 compliance quickly:
 sc init --framework=fda21cfr11 --name="Electronic Records System"
 
 # Generate initial requirements
-sc req generate --framework=fda21cfr11 --category=electronic-records
+sc planning req generate --framework=fda21cfr11 --category=electronic-records
 ```
 
 ### 2. Set Up Electronic Records
 
 ```bash
 # Create electronic records requirements
-sc req new "Electronic Record Controls" --framework=fda21cfr11 --priority=high
-sc req new "Electronic Signature Implementation" --framework=fda21cfr11 --priority=high
-sc req new "Audit Trail System" --framework=fda21cfr11 --priority=high
+sc planning req new "Electronic Record Controls" --framework=fda21cfr11 --priority=high
+sc planning req new "Electronic Signature Implementation" --framework=fda21cfr11 --priority=high
+sc planning req new "Audit Trail System" --framework=fda21cfr11 --priority=high
 ```
 
 ### 3. Validate System
@@ -131,7 +131,7 @@ sc compliance report --framework=fda21cfr11 --format=pdf
 
 ```bash
 # View requirement status
-sc req list --framework=fda21cfr11 --status=pending
+sc planning req list --framework=fda21cfr11 --status=pending
 
 # Track compliance score
 sc compliance score --framework=fda21cfr11
@@ -146,7 +146,7 @@ sc compliance score --framework=fda21cfr11
 sc init --framework=fda21cfr11
 
 # Validate all FDA requirements
-sc req validate --framework=fda21cfr11
+sc planning req validate --framework=fda21cfr11
 
 # Generate CSV documentation
 sc compliance report --framework=fda21cfr11 --type=csv

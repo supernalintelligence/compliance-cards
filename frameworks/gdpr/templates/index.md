@@ -181,10 +181,10 @@ Implements appropriate safeguards for international data transfers including ade
 sc init --framework=gdpr
 
 # Copy specific template to project
-sc req template --id=REQ-GDPR-001 --copy-to=./requirements/
+sc planning req template --id=REQ-GDPR-001 --copy-to=./requirements/
 
 # Validate GDPR compliance
-sc req validate --framework=gdpr
+sc planning req validate --framework=gdpr
 
 # Generate privacy impact assessment
 sc compliance pia --framework=gdpr --output=./assessments/

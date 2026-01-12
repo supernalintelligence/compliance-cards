@@ -154,10 +154,10 @@ Establishes procedures to verify that persons who develop, maintain, or use elec
 sc init --framework=fda21cfr11
 
 # Copy specific template to project
-sc req template --id=REQ-FDA-001 --copy-to=./requirements/
+sc planning req template --id=REQ-FDA-001 --copy-to=./requirements/
 
 # Validate FDA compliance
-sc req validate --framework=fda21cfr11
+sc planning req validate --framework=fda21cfr11
 
 # Generate CSV documentation package
 sc docs generate --type=csv-package --framework=fda21cfr11

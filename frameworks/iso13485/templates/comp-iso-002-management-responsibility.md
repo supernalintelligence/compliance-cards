@@ -114,10 +114,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-ISO-002 --title="Management Responsibility"
+sc planning req new --template=REQ-ISO-002 --title="Management Responsibility"
 
 # Validate implementation
-sc req validate REQ-ISO-002 --framework=iso13485
+sc planning req validate REQ-ISO-002 --framework=iso13485
 
 # Generate management review templates
 sc docs generate --type=management-review --requirement=REQ-ISO-002

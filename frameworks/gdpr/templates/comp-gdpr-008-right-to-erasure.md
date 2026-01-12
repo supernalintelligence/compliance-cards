@@ -178,10 +178,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-GDPR-008 --title="Right to Erasure"
+sc planning req new --template=REQ-GDPR-008 --title="Right to Erasure"
 
 # Validate erasure implementation
-sc req validate REQ-GDPR-008 --framework=gdpr
+sc planning req validate REQ-GDPR-008 --framework=gdpr
 
 # Test erasure functionality
 sc privacy test-erasure --data-subject=test-user-123

@@ -169,10 +169,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-FDA-007 --title="Electronic Signature Implementation"
+sc planning req new --template=REQ-FDA-007 --title="Electronic Signature Implementation"
 
 # Validate e-signature implementation
-sc req validate REQ-FDA-007 --framework=fda21cfr11
+sc planning req validate REQ-FDA-007 --framework=fda21cfr11
 
 # Generate signature validation protocols
 sc validation generate-esig --requirement=REQ-FDA-007

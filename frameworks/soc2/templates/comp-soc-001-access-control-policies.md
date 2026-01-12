@@ -231,10 +231,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-SOC-001 --title="Access Control Policies"
+sc planning req new --template=REQ-SOC-001 --title="Access Control Policies"
 
 # Validate access control implementation
-sc req validate REQ-SOC-001 --framework=soc2
+sc planning req validate REQ-SOC-001 --framework=soc2
 
 # Generate access control test procedures
 sc soc2 test-procedures --requirement=REQ-SOC-001 --type=access-control

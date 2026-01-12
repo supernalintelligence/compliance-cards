@@ -148,10 +148,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-ISO-005 --title="Design Planning"
+sc planning req new --template=REQ-ISO-005 --title="Design Planning"
 
 # Validate design planning implementation
-sc req validate REQ-ISO-005 --framework=iso13485
+sc planning req validate REQ-ISO-005 --framework=iso13485
 
 # Generate design plan templates
 sc docs generate --type=design-plan --requirement=REQ-ISO-005

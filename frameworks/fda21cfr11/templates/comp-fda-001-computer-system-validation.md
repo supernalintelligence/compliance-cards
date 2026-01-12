@@ -222,10 +222,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-FDA-001 --title="Computer System Validation"
+sc planning req new --template=REQ-FDA-001 --title="Computer System Validation"
 
 # Validate CSV implementation
-sc req validate REQ-FDA-001 --framework=fda21cfr11
+sc planning req validate REQ-FDA-001 --framework=fda21cfr11
 
 # Generate IQ/OQ/PQ protocols
 sc validation generate-protocols --requirement=REQ-FDA-001 --phases=iq,oq,pq

@@ -32,7 +32,7 @@ A["🎯 sc init --framework=gdpr<br/>Initialize project with GDPR templates"] --
     F --> L["📝 REQ-GDPR-010: Encryption<br/>Data protection at rest/transit"]
     F --> M["📝 REQ-GDPR-011: Breach Notification<br/>Data breach response procedures"]
 
-    G --> N["✅ sc req validate REQ-GDPR-001<br/>Automated compliance checking"]
+    G --> N["✅ sc planning req validate REQ-GDPR-001<br/>Automated compliance checking"]
     H --> N
     I --> N
     J --> N
@@ -42,7 +42,7 @@ A["🎯 sc init --framework=gdpr<br/>Initialize project with GDPR templates"] --
 
     N --> O{"🏆 All GDPR Templates Validated?"}
 
-    O -->|"❌ Gaps Found"| P["🔧 sc req update REQ-GDPR-XXX<br/>Address compliance gaps"]
+    O -->|"❌ Gaps Found"| P["🔧 sc planning req update REQ-GDPR-XXX<br/>Address compliance gaps"]
     P --> N
 
     O -->|"✅ Compliant"| Q["🎉 GDPR Ready<br/>All requirements implemented"]
@@ -108,16 +108,16 @@ Get started with GDPR compliance quickly:
 sc init --framework=gdpr --name="Data Protection System"
 
 # Generate initial requirements
-sc req generate --framework=gdpr --category=data-protection
+sc planning req generate --framework=gdpr --category=data-protection
 ```
 
 ### 2. Set Up Data Protection
 
 ```bash
 # Create core GDPR requirements
-sc req new "Lawful Basis for Processing" --framework=gdpr --priority=high
-sc req new "Data Subject Rights Implementation" --framework=gdpr --priority=high
-sc req new "Privacy by Design Controls" --framework=gdpr --priority=medium
+sc planning req new "Lawful Basis for Processing" --framework=gdpr --priority=high
+sc planning req new "Data Subject Rights Implementation" --framework=gdpr --priority=high
+sc planning req new "Privacy by Design Controls" --framework=gdpr --priority=medium
 ```
 
 ### 3. Validate Compliance
@@ -134,7 +134,7 @@ sc compliance report --framework=gdpr --type=dpia --format=pdf
 
 ```bash
 # View requirement status
-sc req list --framework=gdpr --status=pending
+sc planning req list --framework=gdpr --status=pending
 
 # Track compliance score
 sc compliance score --framework=gdpr
@@ -149,7 +149,7 @@ sc compliance score --framework=gdpr
 sc init --framework=gdpr
 
 # Validate all GDPR requirements
-sc req validate --framework=gdpr
+sc planning req validate --framework=gdpr
 
 # Generate privacy impact assessment
 sc compliance pia --framework=gdpr

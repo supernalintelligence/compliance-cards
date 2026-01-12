@@ -306,7 +306,7 @@ This template is designed to be "dog-fooded" - used to generate actual complianc
 sc init --framework=gdpr --name="Supernal Coding Platform"
 
 # Generate this specific requirement for your project
-sc req new --template=REQ-GDPR-001 --title="User Data Lawful Basis" --project="supernal-coding"
+sc planning req new --template=REQ-GDPR-001 --title="User Data Lawful Basis" --project="supernal-coding"
 
 # Generate compliance evidence files
 sc compliance evidence --requirement=REQ-GDPR-001 --project="supernal-coding"

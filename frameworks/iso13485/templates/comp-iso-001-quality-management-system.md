@@ -190,10 +190,10 @@ _Note: Individual requirement template files are generated when using `sc init -
 
 ```bash
 # Generate this requirement
-sc req new --template=REQ-ISO-001 --title="Quality Management System"
+sc planning req new --template=REQ-ISO-001 --title="Quality Management System"
 
 # Validate implementation
-sc req validate REQ-ISO-001 --framework=iso13485
+sc planning req validate REQ-ISO-001 --framework=iso13485
 
 # Generate test cases
 sc test generate --requirement=REQ-ISO-001 --type=gherkin

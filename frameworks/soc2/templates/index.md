@@ -191,10 +191,10 @@ sc init --framework=soc2
 sc soc2 configure --criteria=security,availability,processing-integrity
 
 # Copy specific template to project
-sc req template --id=REQ-SOC-001 --copy-to=./requirements/
+sc planning req template --id=REQ-SOC-001 --copy-to=./requirements/
 
 # Validate SOC 2 compliance
-sc req validate --framework=soc2
+sc planning req validate --framework=soc2
 
 # Generate SOC 2 readiness assessment
 sc compliance assessment --framework=soc2 --output=./assessments/

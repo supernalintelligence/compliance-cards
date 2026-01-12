@@ -29,7 +29,7 @@ A["🎯 sc init --framework=iso13485<br/>Initialize project with ISO templates"]
     F --> K["📝 REQ-ISO-009: Design Verification<br/>Test implementation"]
     F --> L["📝 REQ-ISO-010: Design Validation<br/>User validation"]
 
-    C --> M["✅ sc req validate REQ-ISO-001<br/>Automated compliance checking"]
+    C --> M["✅ sc planning req validate REQ-ISO-001<br/>Automated compliance checking"]
     D --> M
     E --> M
     G --> M
@@ -41,7 +41,7 @@ A["🎯 sc init --framework=iso13485<br/>Initialize project with ISO templates"]
 
     M --> N{"🏆 All Templates Validated?"}
 
-    N -->|"❌ Gaps Found"| O["🔧 sc req update REQ-ISO-XXX<br/>Address compliance gaps"]
+    N -->|"❌ Gaps Found"| O["🔧 sc planning req update REQ-ISO-XXX<br/>Address compliance gaps"]
     O --> M
 
     N -->|"✅ Compliant"| P["🎉 ISO 13485 Ready<br/>All requirements implemented"]
@@ -87,7 +87,7 @@ A["🎯 sc init --framework=iso13485<br/>Initialize project with ISO templates"]
 sc init --framework=iso13485
 
 # Validate all ISO requirements
-sc req validate --framework=iso13485
+sc planning req validate --framework=iso13485
 
 # Generate compliance report
 sc compliance report --framework=iso13485
@@ -113,16 +113,16 @@ Get started with ISO 13485 compliance in minutes:
 sc init --framework=iso13485 --name="Medical Device QMS"
 
 # Generate initial requirements
-sc req generate --framework=iso13485 --category=design-controls
+sc planning req generate --framework=iso13485 --category=design-controls
 ```
 
 ### 2. Set Up Design Controls
 
 ```bash
 # Create design control requirements
-sc req new "Design Input Requirements" --framework=iso13485 --priority=high
-sc req new "Design Output Specifications" --framework=iso13485 --priority=high
-sc req new "Design Review Process" --framework=iso13485 --priority=medium
+sc planning req new "Design Input Requirements" --framework=iso13485 --priority=high
+sc planning req new "Design Output Specifications" --framework=iso13485 --priority=high
+sc planning req new "Design Review Process" --framework=iso13485 --priority=medium
 ```
 
 ### 3. Validate Compliance
@@ -139,7 +139,7 @@ sc compliance report --framework=iso13485 --format=pdf
 
 ```bash
 # View requirement status
-sc req list --framework=iso13485 --status=pending
+sc planning req list --framework=iso13485 --status=pending
 
 # Track compliance score
 sc compliance score --framework=iso13485

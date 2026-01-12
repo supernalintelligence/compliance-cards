@@ -150,10 +150,10 @@ Establishes post-market surveillance system to collect and review experience gai
 sc init --framework=iso13485
 
 # Copy specific template to project
-sc req template --id=REQ-ISO-001 --copy-to=./requirements/
+sc planning req template --id=REQ-ISO-001 --copy-to=./requirements/
 
 # Validate ISO 13485 compliance
-sc req validate --framework=iso13485
+sc planning req validate --framework=iso13485
 
 # Generate compliance report
 sc compliance report --framework=iso13485 --output=./reports/
@@ -163,10 +163,10 @@ sc compliance report --framework=iso13485 --output=./reports/
 
 Each template can be customized for your specific project while maintaining ISO 13485 compliance:
 
-1. **Copy Template**: Use `sc req new --template=REQ-ISO-XXX` to create customized version
+1. **Copy Template**: Use `sc planning req new --template=REQ-ISO-XXX` to create customized version
 2. **Modify Content**: Update title, description, and acceptance criteria for your use case
 3. **Maintain Traceability**: Keep ISO clause references and compliance mappings
-4. **Validate Changes**: Run `sc req validate` to ensure continued compliance
+4. **Validate Changes**: Run `sc planning req validate` to ensure continued compliance
 
 ### Template Structure
 
