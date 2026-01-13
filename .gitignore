@@ -1,0 +1,420 @@
+.branches
+.DS_store
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+*_ts*
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+junk/
+
+# testing
+.nyc_output
+
+# Test coverage outputs (scoped to package/project roots, not component dirs)
+/coverage/
+supernal-code-package/coverage/
+packages/*/coverage/
+apps/*/coverage/
+
+# build output
+dist
+.svelte-kit
+.output
+/build
+package
+.next
+
+# IDE - VSCode and others
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# turbo
+.turbo
+
+# Build output directory
+.build_output/
+logs/
+build-logs/
+*_build.log
+
+.env*
+.secrets/
+**/build/*
+**/Pods/*
+**/vendor/*
+
+
+*.DS_store
+.vercel
+.env*.local
+
+# Environment files
+.env
+.env.local
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
+**/.env.test
+# Allow example files
+!.env.example
+!**/.env.example
+!**/.env.*.example
+
+# Added by Claude Task Master
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dev-debug.log
+# Dependency directories
+node_modules/
+
+# Lock files (using pnpm, not npm)
+package-lock.json
+**/package-lock.json
+# Build directories
+dist/
+*/dist/
+**/dist/
+dist-*
+**/dist-**
+dist-electron/
+# Next.js build output
+.next/
+**/.next/
+# TypeScript incremental build info
+*.tsbuildinfo
+**/tsconfig.tsbuildinfo
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# OS specific
+.DS_Store
+# Task files
+
+# Subrepos - Directories with their own git repositories
+# Subrepo: apps/osx
+# Subrepo: apps/chrome-extension
+
+# Subrepo: apps/mobile
+apps/mobile/
+
+# Excluded directories that may contain git repositories
+not_yet/
+
+# Example UI code
+
+# Archive
+archive/
+
+# Backups
+backups/
+
+# Archive files
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+
+# Backup files
+*.backup
+*.backup-*
+
+# Obsidian workspace files
+.obsidian/
+
+# Additional Supabase files
+supabase/.temp/
+supabase/supabase/
+
+# Scripts
+scripts_misc/
+
+
+
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Type Duplication Reports (generated)
+reports/duplications/
+scripts/task-complexity-report.json
+
+# E2E Test Reports (generated)
+tests/e2e/reports/
+**/reports/*.json
+**/reports/*.html
+
+# Local Configuration Overrides
+supernal-code.config.local.toml
+
+# System state files - Don't commit (contain absolute paths or are auto-generated)
+.supernal-local/rules-state.json
+.supernal-local/suggestions/
+.supernal-local/last-upgrade-check.json
+.supernal-local/health-cache.json
+.supernal-local/traceability-matrix.json
+# .supernal-local/workflow-state.json  # Could be committed for team progress tracking
+
+# WIP registry (local WIP state - Work-In-Progress tracking)
+.supernal/wip-registry.yaml
+
+# Duplication Linting Configuration (commit this)
+# .duplication-lint.json should be committed
+
+# Build outputs
+out/
+dist/
+build/
+
+# Test artifacts
+test-results/
+playwright-report/
+
+# PWA generated files
+public/workbox-*.js
+public/sw.js
+public/swe-worker-*.js
+
+# Runtime logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js specific
+.next/
+
+# Capacitor generated files
+capacitor.config.ts.bak
+ios/
+android/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.last-update-check
+
+# Build artifacts
+*.tgz
+
+# Dashboard - tracked as submodule (no need to ignore, git handles submodules)
+# apps/supernal-dashboard/  # Removed: submodules don't need to be in .gitignore
+
+# Dashboard build artifacts (copied docs for Vercel deployment)
+# apps/supernal-dashboard/public/_repo/  # Submodule handles this
+
+# Test directories
+test-repos/
+
+# Keep vercel.json for GitHub→Vercel integration
+# User-specific local overrides (gitignored)
+vercel.local.json
+
+# Supernal Coding local state (auto-managed)
+# Archived
+.DS_Store
+audit-export/
+
+# Auto-generated CLI documentation (use consolidated docs/ instead)
+documentation/docs/
+
+# ==============================================================================
+# WIP Registry System - Work-in-Progress File Tracking
+# ==============================================================================
+# The WIP registry tracks files being actively worked on via a registry
+# (.supernal/wip-registry.yaml) rather than a physical directory.
+#
+# Files can live anywhere in the repo but must be registered in WIP registry
+# until ready to commit. Pre-commit hook enforces this.
+#
+# Commands:
+#   sc workflow wip register <file> --feature=<name> --requirement=REQ-XXX
+#   sc workflow wip list
+#   sc workflow wip status
+#   sc workflow wip cleanup --older-than=7d
+#
+# On commit, files are automatically de-registered from WIP registry.
+#
+# See: docs/features/workflow-management/wip-registry/
+
+# WIP registry lock file (temporary)
+.supernal/wip-registry.lock
+
+# WIP registry history log (optional, can be large)
+.supernal/wip-registry-history.log
+
+# ==============================================================================
+# Test Results Storage (REQ-106)
+# ==============================================================================
+# Local results: Large, temporary, NOT in git
+.supernal/test-results/
+
+# Git summary: Small metadata only, IS tracked (negated below)
+# .supernal/test-summary.json is TRACKED (contains no output, ~100 bytes/result)
+
+# Search index: Build artifact, NOT in git
+.supernal/search-index.json
+.supernal/search-index.json.tmp
+
+# Log buffers: Temporary, NOT in git
+.supernal/logs/
+
+# ==============================================================================
+# Credential Storage - NEVER COMMIT
+# ==============================================================================
+# See: docs/architecture/credential-storage-specification.md
+
+# Project-local credential cache and sessions
+.supernal/cache/
+.supernal/session/
+
+# Integration-specific configs with potential secrets
+.supernal-local/integrations/
+
+# Google OAuth and other integration credentials
+# Note: Main credentials stored in ~/.supernal/ (outside repo)
+*.credentials.json
+*.credentials.enc
+oauth-tokens.json
+**/tokens.json
+
+# Session directories
+.supernal-local/sessions/
+
+# Service account keys (if used)
+*-service-account.json
+service-account-*.json
+
+# ==============================================================================
+# Supernal Local Operational Data - NOT COMMITTED (REQ-127)
+# ==============================================================================
+# External integration cache (Jira, GitHub, Slack)
+# These files contain external data synced locally but NOT committed to git
+# Cursor CAN access these via .cursorignore negation for context
+.supernal-local/
+
+# User-specific inbox cache (stored in home directory)
+# ~/.supernal/inbox/ is NOT in repo, this is just documentation
+# ==============================================================================
+
+# Private - now tracked as submodule
+# private/
+# private/compliance-manager/
+
+# Standalone packages - now tracked as submodules
+# standalone/compliance-cards/
+# standalone/awesome-ai-development/
+
+# Marketing site - now tracked as submodule (supernal-coding-site)
+# apps/docs-next/
+
+# CLI package - now tracked as submodule (supernal-coding-cli)
+# supernal-code-package/
+
+# Documentation (now in supernal-coding-cli repo)
+documentation/
+# hydra-config - now tracked as submodule
+# hydra-config/
+
+
+# Dynamic rules (generated by monitor daemon, never commit)
+.cursor/rules/telemetry-state.mdc
+.cursor/rules/feature-domains.mdc
+.cursor/rules/session-sync-status.mdc
+.cursor/rules/enforcement-alert.mdc
+.cursor/rules/AGENT-STATE.mdc
+.cursor/rules/agent-state.mdc
+.cursor/rules/feature-state.mdc
+.cursor/rules/task-state.mdc
+.cursor/rules/test-requirement-linkage.mdc
+.cursor/rules/codebase-context.mdc
+.cursor/rules/feature-phases.mdc
+.cursor/rules/test-results.mdc
+
+# Monitor daemon runtime files (generated, never commit)
+.supernal/monitor-activity.jsonl
+.supernal/monitor-config.json
+.supernal/monitor.pid
+.supernal/monitor-state.json
+
+# Issue tracker state (runtime, never commit)
+.supernal-local/issue-tracker.json
+
+# Experimental validation runs
+.supernal/experiments/
+.supernal-local/telemetry/config.json
+.supernal-local/telemetry/pending-events.json
+.supernal/eval/
+
+# Runtime files - do not commit
+.supernal-local/telemetry/config.json
+.supernal-local/telemetry/pending-events.json
+.supernal/eval/
+
+# Test mapping reports (generated)
+.supernal/reports/
+tests/tmp/
+.supernal/design-standards-cache.json
+.supernal/assignment-scripts/
+.supernal/assignment-progress/
+
+# Monitor daemon files (auto-generated, don't commit)
+.supernal/monitor.pid
+.supernal/monitor.log
+.supernal/monitor-activity.jsonl
+.supernal/monitor-config.json
+
+# Dynamic cursor rules (generated by monitor)
+.cursor/rules/session-sync-status.mdc
+.cursor/rules/feature-state.mdc
+.cursor/rules/log-management-usage.mdc
+create-missing-readmes.sh
+fix-feature-frontmatter.js
+.supernal/test-results/index.json
+
+external/
