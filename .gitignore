@@ -418,3 +418,6 @@ fix-feature-frontmatter.js
 .supernal/test-results/index.json
 
 external/
+
+# Worktrees (Multi-Agent Development)
+.worktrees/
